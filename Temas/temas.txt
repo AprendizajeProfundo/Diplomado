@@ -1,4 +1,8 @@
-En este directorio se dejará el material asociado al diplomado con la estructura desacoplada que cad auno de los temas tratados.
+En este directorio se dejará el material asociado al diplomado con la estructura desacoplada de cada uno de los temas tratados.
+
+
+
+
 
 La estructura de los directorios es:
 
