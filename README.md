@@ -13,10 +13,10 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 
 **Diplomado:**
 
-[Binder](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master)
-[nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/tree/master/)
+* [Binder](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master)
+* [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/tree/master/)
 
 **General:**
 
-[Binder](https://mybinder.org/)
-[nbviewer](https://nbviewer.jupyter.org/)
+* [Binder](https://mybinder.org/)
+* [nbviewer](https://nbviewer.jupyter.org/)
