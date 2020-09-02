@@ -15,8 +15,8 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 
 **Diplomado:**
 
-* [Binder](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master)
-* [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/tree/master/)
+* [UN Binder](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master)
+* [UN nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/tree/master/)
 
 **General:**
 
