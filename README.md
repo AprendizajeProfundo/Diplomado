@@ -3,5 +3,5 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 # Introducción
 
-- [Aprendizaje Profundo](./Temas/Introduccion/SesionInauguralAP.ipynb)
-- [Inteligencia Artificial](./Temas/Introduccion/SesionInauguralIA.ipynb)
+- [Aprendizaje Profundo](./Temas/Introduccion/Cuadernos/SesionInauguralAP.ipynb)
+- [Inteligencia Artificial](./Temas/Introduccion/Cuadernos/SesionInauguralIA.ipynb)
