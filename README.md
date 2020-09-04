@@ -1,4 +1,4 @@
-# Diplomado
+# Diplomado de IA y AP
 Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo
 
 # Introducción
@@ -24,3 +24,4 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 
 * [Binder](https://mybinder.org/)
 * [nbviewer](https://nbviewer.jupyter.org/)
+cha cha cha
