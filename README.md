@@ -24,4 +24,3 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 
 * [Binder](https://mybinder.org/)
 * [nbviewer](https://nbviewer.jupyter.org/)
-cha cha cha
