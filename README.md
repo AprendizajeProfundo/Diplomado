@@ -12,6 +12,10 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 - [Instalación de Anaconda](https://www.youtube.com/watch?v=yKG-bzLZxyI&t)
 - Tour de Herramientas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Herramientas_Tour.ipynb)
 [[Interactivo]]()
+- Herramientas Digitales[[Estático]]()
+[[Interactivo]]()
+- Python, primeros pasos [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Modelamiento-Metodos-Numericos/blob/master/Cuadernos/Intro_Python.ipynb)
+(https://mybinder.org/v2/gh/AprendizajeProfundo/Modelamiento-Metodos-Numericos/3d47764fafd73fcde3977b351101515fade1058b?urlpath=lab%2Ftree%2FCuadernos%2FIntro_Python.ipynb)[[Interactivo]]
 
 # Recursos
 
