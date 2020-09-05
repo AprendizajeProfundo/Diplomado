@@ -1,4 +1,4 @@
-# Diplomado de IA y AP
+# Diplomado de Inteligencia Artificial(AI) y Aprendizaje Profundo(AP)
 Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo
 
 # Introducción
