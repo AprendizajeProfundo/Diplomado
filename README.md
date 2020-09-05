@@ -24,7 +24,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Introduccin a Tensores II [[Estático]]()
   
 - Probabilidad
-  - Conceptos básicos de probabilidad [[Estático]]()
+  - Conceptos básicos de probabilidad [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Probabilidad_I.ipynb)
 
 # Recursos
 
