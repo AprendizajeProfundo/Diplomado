@@ -20,7 +20,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 # Preliminares
 
 - Algebra Lineal
-  - Introducción a Tensores I [[Estático]]()
+  - Introducción a Tensores I [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Intro_Tensores_I.ipynb)
   - Introduccin a Tensores II [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Intro_Tensores_II.ipynb)
   
 - Probabilidad
