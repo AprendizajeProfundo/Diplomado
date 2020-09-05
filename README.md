@@ -17,6 +17,15 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 - Python, primeros pasos [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Intro_Python.ipynb)
 [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Modelamiento-Metodos-Numericos/3d47764fafd73fcde3977b351101515fade1058b?urlpath=lab%2Ftree%2FCuadernos%2FIntro_Python.ipynb)
 
+# Preliminares
+
+- Algebra Lineal
+  - Introducción a Tensores I [[Estático]]()
+  - Introduccin a Tensores II [[Estático]]()
+  
+- Probabilidad
+  - Conceptos básicos de probabilidad [[Estático]]()
+
 # Recursos
 
 **Diplomado:**
