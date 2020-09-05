@@ -15,7 +15,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 - Herramientas Digitales[[Estático]]()
 [[Interactivo]]()
 - Python, primeros pasos [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Modelamiento-Metodos-Numericos/blob/master/Cuadernos/Intro_Python.ipynb)
-(https://mybinder.org/v2/gh/AprendizajeProfundo/Modelamiento-Metodos-Numericos/3d47764fafd73fcde3977b351101515fade1058b?urlpath=lab%2Ftree%2FCuadernos%2FIntro_Python.ipynb)[[Interactivo]]
+[[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Modelamiento-Metodos-Numericos/3d47764fafd73fcde3977b351101515fade1058b?urlpath=lab%2Ftree%2FCuadernos%2FIntro_Python.ipynb)
 
 # Recursos
 
