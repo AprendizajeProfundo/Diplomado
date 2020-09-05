@@ -21,7 +21,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 
 - Algebra Lineal
   - Introducción a Tensores I [[Estático]]()
-  - Introduccin a Tensores II [[Estático]]()
+  - Introduccin a Tensores II [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Intro_Tensores_II.ipynb)
   
 - Probabilidad
   - Conceptos básicos de probabilidad [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Probabilidad_I.ipynb)
