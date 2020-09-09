@@ -25,6 +25,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   
 - Probabilidad
   - Conceptos básicos de probabilidad [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/Prob_Conceptos_Basicos.ipynb)
+  [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/a188d45232dda49cdcd8e187a6b70de06a280cee?urlpath=lab%2Ftree%2FTemas%2FFundamentos%2FCuadernos%2FProb_Conceptos_Basicos.ipynb)
 
 # Recursos
 
