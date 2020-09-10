@@ -32,8 +32,8 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/a188d45232dda49cdcd8e187a6b70de06a280cee?urlpath=lab%2Ftree%2FTemas%2FFundamentos%2FCuadernos%2FProb_Variables_Aleatorias.ipynb)
   
  - Modelamiento
-  - ¿Qué es modelar? [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Ejemplo_Modelamiento.ipynb)
-  - Ejemplos de Modelos [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Modelamiento.ipynb)
+   - ¿Qué es modelar? [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Ejemplo_Modelamiento.ipynb)
+   - Ejemplos de Modelos [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Modelamiento.ipynb)
 
 # Recursos
 
