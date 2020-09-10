@@ -1,4 +1,7 @@
 # Diplomado de IA y AP
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master)
+
 Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo
 
 # Introducción
