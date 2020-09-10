@@ -20,11 +20,16 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 # Preliminares
 
 - Algebra Lineal
-  - Introducción a Tensores I [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Intro_Tensores_I.ipynb)
-  - Introduccin a Tensores II [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Intro_Tensores_II.ipynb)
+  - Introducción a Tensores [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/ten_Intro_Tensores.ipynb)
+  [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/a188d45232dda49cdcd8e187a6b70de06a280cee?urlpath=lab%2Ftree%2FTemas%2FFundamentos%2FCuadernos%2Ften_Intro_Tensores.ipynb)
+  - Jugando con Tensores [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/ten_Jugando_Tensores_II.ipynb)
+  [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/a188d45232dda49cdcd8e187a6b70de06a280cee?urlpath=lab%2Ftree%2FTemas%2FFundamentos%2FCuadernos%2Ften_Jugando_Tensores_II.ipynb)
   
 - Probabilidad
-  - Conceptos básicos de probabilidad [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Probabilidad_I.ipynb)
+  - Conceptos básicos de probabilidad [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/Prob_Conceptos_Basicos.ipynb)
+  [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/a188d45232dda49cdcd8e187a6b70de06a280cee?urlpath=lab%2Ftree%2FTemas%2FFundamentos%2FCuadernos%2FProb_Conceptos_Basicos.ipynb)
+  - Variables Aleatorias [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/Prob_Variables_Aleatorias.ipynb#Contenido)
+  [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/a188d45232dda49cdcd8e187a6b70de06a280cee?urlpath=lab%2Ftree%2FTemas%2FFundamentos%2FCuadernos%2FProb_Variables_Aleatorias.ipynb)
 
 # Recursos
 
