@@ -33,7 +33,11 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/a188d45232dda49cdcd8e187a6b70de06a280cee?urlpath=lab%2Ftree%2FTemas%2FFundamentos%2FCuadernos%2FProb_Conceptos_Basicos.ipynb)
   - Variables Aleatorias [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/Prob_Variables_Aleatorias.ipynb#Contenido)
   [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/a188d45232dda49cdcd8e187a6b70de06a280cee?urlpath=lab%2Ftree%2FTemas%2FFundamentos%2FCuadernos%2FProb_Variables_Aleatorias.ipynb)
-  
+ - Probabilidad Conjunta [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/Prob_Var_Prob_conjunta.ipynb#Contenido)
+
+- Teoría de la Información
+  - Introducción a la Teoría de la Información [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/ti_Teoria_Informacion.ipynb#Contenido)  
+
  - Modelamiento
    - ¿Qué es modelar? [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Ejemplo_Modelamiento.ipynb)
    - Ejemplos de Modelos [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Modelamiento.ipynb)
