@@ -48,7 +48,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
    - Ejemplo clave: COVID-19 [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/pandas_COVID_Limpie_Base_Nacional.ipynb)
    
 - Aprendizaje de Máquinas
-   - Introducción a aprendizaje de máquinas[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_maquinas/Cuadernos/am_intro_aprendizaje_maquinas.ipynb)
+   - Introducción a aprendizaje de máquinas[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_intro_aprendizaje_maquinas.ipynb)
   
 
 # Recursos
