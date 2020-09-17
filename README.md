@@ -42,14 +42,17 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
  - Modelamiento
    - ¿Qué es modelar? [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Ejemplo_Modelamiento.ipynb)
    - Ejemplos de Modelos [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Modelamiento.ipynb)
-
+   - Diferenciación[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/cal_derivadas.ipynb)
+   - Optimización I [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/Optimization_1.ipynb)
+   - Optimización II [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/Optimization_2.ipynb)
  - Introducción a Pandas
    - ¿Qué es pandas? [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/pandas_Intro.ipynb)
    - Ejemplo clave: COVID-19 [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/pandas_COVID_Limpie_Base_Nacional.ipynb)
    
 - Aprendizaje de Máquinas
    - Introducción a aprendizaje de máquinas[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_intro_aprendizaje_maquinas.ipynb)
-  
+  - Conceptos básicos de regresión[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_intro_regresion.ipynb)
+  - Regresión Logística con JAX[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_Regresion_logistica_JAX.ipynb)
 
 # Recursos
 
