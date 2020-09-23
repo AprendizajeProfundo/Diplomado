@@ -59,9 +59,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Modelo logístico de predicción en tf.keras [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-logistico-keras-cancer.ipynb)
   - Modelo de Regresión multi-logística con tf.keras 2.x [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-softmax-keras-iris.ipynb)
   - Gradiente estocástico descendiente [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-sdg.ipynb)
-  - Modelo de Regresión multi-logística con tf.keras 2.x [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-softmax-keras-iris.ipynb)
-.ipynb)
-
+  
 
 # Recursos
 
