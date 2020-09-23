@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master?urlpath=lab)
 
-Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo
+Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo.
 
 # Introducción
 
@@ -51,11 +51,14 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
    
 - Aprendizaje de Máquinas
    - Introducción a aprendizaje de máquinas[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_intro_aprendizaje_maquinas.ipynb)
-  - Regresión Logística con JAX[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_Regresion_logistica_JAX.ipynb)
+   - Introducción a Redes Neuronales Artificiales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_Intro_RNA.ipynb)
   - Conceptos básicos de regresión[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_intro_regresion.ipynb)
   - Regresión Logística con JAX[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_Regresion_logistica_JAX.ipynb)
   - Regresión Logística con Tensorflow 2.x[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_Regresion_Logistica_Tensorflow.ipynb)
-  - Regresión con tf.keras 2.x[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_regresion_Keras.ipynb.ipynb)
+  - Regresión con tf.keras 2.x[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_regresion_Keras.ipynb)
+  - Modelo logístico de predicción en tf.keras [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-logistico-keras-cancer.ipynb)
+  - Modelo de Regresión multi-logística con tf.keras 2.x [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-softmax-keras-iris.ipynb)
+  - Gradiente estocástico descendiente [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-sdg.ipynb)
   
 
 # Recursos
