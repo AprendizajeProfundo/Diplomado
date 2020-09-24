@@ -60,7 +60,9 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Modelo de Regresión multi-logística con tf.keras 2.x [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-softmax-keras-iris.ipynb)
   - Gradiente estocástico descendiente [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-sdg.ipynb)
   
-
+- Autocodificadores variacionales
+  - Modelos TRIM y autocodificadores variacionales[[Estático]]
+  
 # Recursos
 
 **Diplomado:**
