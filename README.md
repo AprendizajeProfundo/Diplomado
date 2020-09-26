@@ -19,6 +19,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 [[Interactivo]]()
 - Python, primeros pasos [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Intro_Python.ipynb)
 [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Modelamiento-Metodos-Numericos/3d47764fafd73fcde3977b351101515fade1058b?urlpath=lab%2Ftree%2FCuadernos%2FIntro_Python.ipynb)
+- Concepto de Clase en Python [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Intro_Clases_Python.ipynb)
 
 # Preliminares
 
