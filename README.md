@@ -65,16 +65,17 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Detección de Fraude en tarjetas de crédito [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-fraudes_datos_desbalanceados.ipynb)
 
 - Redes Recurrentes
-  - Introducción a redes LSTM [[Estático]]
-  (https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb)
-  - Introducción a redes GRU [[Estático]]
-  (https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
-  - Ejemplo Dummy de series de tiempo [[Estático]]
-  (https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
+  - Introducción a redes LSTM [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb)
+  - Introducción a redes GRU [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
+  - Ejemplo Dummy de series de tiempo [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
   
 - Autocodificadores variacionales
   - Introducción a Autoencoders [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/AE_Example_Dense_mnist.ipynb)
   - Modelos TRIM y autocodificadores variacionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
+  
+- Tratamiento de Imágenes
+  - Introducción a Convoluciones [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Tratamiento_de_Imagenes/Cuadernos/ti_convoluciones.ipynb)
+  - Redes Neuronales Convolucionales [[Pronto, Pronto :)]] 
 
 # Recursos
 
