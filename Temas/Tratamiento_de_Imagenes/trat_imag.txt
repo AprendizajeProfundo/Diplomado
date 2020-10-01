@@ -1,0 +1,1 @@
+En esta carpeta podrán encontrar temas relacionados con redes neuronales convolucionales.
