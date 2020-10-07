@@ -54,7 +54,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 - Aprendizaje de Máquinas
    - Introducción a aprendizaje de máquinas[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_intro_aprendizaje_maquinas.ipynb)
    - Introducción a Redes Neuronales Artificiales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_Intro_RNA.ipynb)
-   - [Red Neuronal Desde Cero](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_Red_De_Cero.ipynb)
+   - Red Neuronal Desde Cero[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_Red_De_Cero.ipynb)
   - Conceptos básicos de regresión[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_intro_regresion.ipynb)
   - Regresión Logística con JAX[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_Regresion_logistica_JAX.ipynb)
   - Regresión Logística con Tensorflow 2.x[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_Regresion_Logistica_Tensorflow.ipynb)
@@ -67,8 +67,9 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 - Redes Recurrentes
   - Introducción a redes LSTM [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb)
   - Introducción a redes GRU [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
-  - Ejemplo Dummy de series de tiempo [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
-  - Series de tiempo  Multivariadas[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
+  - Ejemplo Dummy de series de tiempo [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
+  - Series de tiempo  Multivariadas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
+  - Series de tiempo  muy largas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
 - Autocodificadores variacionales
   - Introducción a Autoencoders [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/AE_Example_Dense_mnist.ipynb)
   - Modelos TRIM y autocodificadores variacionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
