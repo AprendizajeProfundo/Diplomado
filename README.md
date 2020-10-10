@@ -79,6 +79,10 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Redes Neuronales Convolucionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Tratamiento_de_Imagenes/Cuadernos/ti_cnn.ipynb)
   - InceptionV3 [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Tratamiento_de_Imagenes/Cuadernos/ti_transfer_learning.ipynb)
 
+- Procesamiento de Lenguaje Natural
+  - Introducción al tratamiento superficial de datos[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Introduccion.ipynb
+  - 
+
 # Recursos
 
 **Diplomado:**
