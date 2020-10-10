@@ -81,7 +81,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 
 - Procesamiento de Lenguaje Natural
   - Introducción al tratamiento superficial de datos[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Introduccion.ipynb)
-  - Generación de texto usando caracateres y redes recurrentes[[Estático]]  (https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Char_generator_RNN.ipynb)
+  - Generación de texto usando caracateres y redes recurrentes[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Char_generator_RNN.ipynb)
 
 # Recursos
 
