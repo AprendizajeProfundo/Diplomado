@@ -11,8 +11,8 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Inteligencia Artificial [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/SesionInauguralIA.ipynb)
 [[Interactivo]](
 https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e86545159845b7c2a955e7360b8cc5d041b39b44?urlpath=lab%2Ftree%2FTemas%2FIntroduccion%2FCuadernos%2FSesionInauguralIA.ipynb)
-- [ML Dungeon](https://www.youtube.com/watch?v=jK7Y4GsNpa8)
-- [Instalación de Anaconda](https://www.youtube.com/watch?v=yKG-bzLZxyI&t)
+- Video [ML Dungeon](https://www.youtube.com/watch?v=jK7Y4GsNpa8)
+- Video [Instalación de Anaconda](https://www.youtube.com/watch?v=yKG-bzLZxyI&t)
 - Tour de Herramientas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Herramientas_Tour.ipynb)
 [[Interactivo]]()
 - Herramientas Digitales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
@@ -78,6 +78,10 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Introducción a Convoluciones [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Tratamiento_de_Imagenes/Cuadernos/ti_convoluciones.ipynb)
   - Redes Neuronales Convolucionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Tratamiento_de_Imagenes/Cuadernos/ti_cnn.ipynb)
   - InceptionV3 [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Tratamiento_de_Imagenes/Cuadernos/ti_transfer_learning.ipynb)
+
+- Procesamiento de Lenguaje Natural
+  - Introducción al tratamiento superficial de datos[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Introduccion.ipynb)
+  - Generación de texto usando caracateres y redes recurrentes[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Char_generator_RNN.ipynb)
 
 # Recursos
 
