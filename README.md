@@ -84,7 +84,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Introducción al tratamiento superficial de datos[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Introduccion.ipynb)
   - Generación de texto usando caracateres y redes recurrentes[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Char_generator_RNN.ipynb)
   - Aprendizaje Profundo para datos textuales: word2vec[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_word2vec.ipynb)
-  - Estado del arte en clasificación de documentos(2020)[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Clustering_docs.ipynb)
+  - Estado del arte en clasificación de documentos(2020)[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Clustering_docs.ipynb)
 # Recursos
 
 **Diplomado:**
