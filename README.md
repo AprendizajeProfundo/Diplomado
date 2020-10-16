@@ -86,7 +86,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Aprendizaje Profundo para datos textuales: word2vec[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_word2vec.ipynb)
   - Estado del arte en clasificación de documentos(2020)[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Clustering_docs.ipynb)
   - Análisis de sentimiento-Tweets[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Sentiment%20Analysis.ipynb)
-# Recursos
+ - Análisis de sentimiento-Comentario de películas[[Estático]]()
 
 **Diplomado:**
 
