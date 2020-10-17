@@ -72,18 +72,25 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Series de tiempo  muy largas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
 - Autocodificadores variacionales
   - Introducción a Autoencoders [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/AE_Example_Dense_mnist.ipynb)
+  - Introducción a autoencoders variacionales[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAE_Introduction.ipynb)
+  - Implementación  de un autoencoder variacional[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb)
+  
   - Modelos TRIM y autocodificadores variacionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
   
 - Tratamiento de Imágenes
   - Introducción a Convoluciones [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Tratamiento_de_Imagenes/Cuadernos/ti_convoluciones.ipynb)
   - Redes Neuronales Convolucionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Tratamiento_de_Imagenes/Cuadernos/ti_cnn.ipynb)
   - InceptionV3 [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Tratamiento_de_Imagenes/Cuadernos/ti_transfer_learning.ipynb)
+  - Audios tratados como Imágenes [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Tratamiento_de_Imagenes/Cuadernos/ti_Audio.ipynb)
 
 - Procesamiento de Lenguaje Natural
   - Introducción al tratamiento superficial de datos[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Introduccion.ipynb)
   - Generación de texto usando caracateres y redes recurrentes[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Char_generator_RNN.ipynb)
   - Aprendizaje Profundo para datos textuales: word2vec[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_word2vec.ipynb)
-# Recursos
+  - Estado del arte en clasificación de documentos(2020)[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Clustering_docs.ipynb)
+  - Análisis de sentimiento-Tweets[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Sentiment%20Analysis.ipynb)
+  - Análisis de sentimiento-Comentario de películas[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_IBDM_Reviews.ipynb)
+  - Modelo seq2seq. Construcción de traductores[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_seq2seq_traductor.ipynb)
 
 **Diplomado:**
 
