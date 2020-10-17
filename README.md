@@ -87,7 +87,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Estado del arte en clasificación de documentos(2020)[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Clustering_docs.ipynb)
   - Análisis de sentimiento-Tweets[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Sentiment%20Analysis.ipynb)
   - Análisis de sentimiento-Comentario de películas[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_IBDM_Reviews.ipynb)
-
+  - Modelo seq2seq. Construcción de traductores[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_seq2seq_traductor.ipynb)
 **Diplomado:**
 
 * [UN Binder](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master)
