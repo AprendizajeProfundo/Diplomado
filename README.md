@@ -73,7 +73,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
 - Autocodificadores variacionales
   - Introducción a Autoencoders [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/AE_Example_Dense_mnist.ipynb)
   - Introducción a autoencoders variacionales[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAE_Introduction.ipynb)
-  - Implementación  de un autoencoder variacional[[Estático]]()
+  - Implementación  de un autoencoder variacional[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb)
   
   - Modelos TRIM y autocodificadores variacionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
   
