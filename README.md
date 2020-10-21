@@ -70,11 +70,17 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Ejemplo Dummy de series de tiempo [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
   - Series de tiempo  Multivariadas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
   - Series de tiempo  muy largas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
+
+- Autocodificadores
+  - Coloración de imágenes B/N[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Auto-encoders/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
+  - Aplicación a pruebas de Estado. Modelo TRI multidimensional[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Auto-encoders/Cuadernos/ae_Autoencoder_Exam.ipynb)  
+  - Aplicación a pruebas de Estado-Modelo TRI Muti-unidimensional[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Auto-encoders/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
+  - Ejemplo MNIST - Modelo denso[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Auto-encoders/Cuadernos/ae_Example_Dense_mnist.ipynb)
+
 - Autocodificadores variacionales
   - Introducción a Autoencoders [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/AE_Example_Dense_mnist.ipynb)
   - Introducción a autoencoders variacionales[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAE_Introduction.ipynb)
-  - Implementación  de un autoencoder variacional[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb)
-  
+  - Implementación  de un autoencoder variacional[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb) 
   - Modelos TRIM y autocodificadores variacionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
   
 - Tratamiento de Imágenes
@@ -89,9 +95,11 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Aprendizaje Profundo para datos textuales: word2vec[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_word2vec.ipynb)
   - Estado del arte en clasificación de documentos(2020)[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Clustering_docs.ipynb)
   - Análisis de sentimiento-Tweets[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Sentiment%20Analysis.ipynb)
-  - Análisis de sentimiento-Comentario de películas[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_IBDM_Reviews.ipynb)
+  - Análisis de sentimiento-Comentario de películas[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_IBDM_Reviews.ipynb)
   - Modelo seq2seq. Construcción de traductores[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_seq2seq_traductor.ipynb)
-
+  - Generación automática de texto-Sonetos Chekespeare[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Shakespeare.ipynb)
+  
+  
 **Diplomado:**
 
 * [UN Binder](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master)
