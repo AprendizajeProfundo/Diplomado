@@ -72,7 +72,7 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Series de tiempo  muy largas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
 
 - Autocodificadores
-  - Coloración de imágenes B/N[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Auto-encoders/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
+  - Coloración de imágenes B/N[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
   - Aplicación a pruebas de Estado. Modelo TRI multidimensional[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Auto-encoders/Cuadernos/ae_Autoencoder_Exam.ipynb)  
   - Aplicación a pruebas de Estado-Modelo TRI Muti-unidimensional[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Auto-encoders/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
   - Ejemplo MNIST - Modelo denso[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Auto-encoders/Cuadernos/ae_Example_Dense_mnist.ipynb)
