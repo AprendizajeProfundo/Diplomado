@@ -99,7 +99,11 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Modelo seq2seq. Construcción de traductores[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_seq2seq_traductor.ipynb)
   - Generación automática de texto-Sonetos Chekespeare[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Shakespeare.ipynb)
   
+- Transformers
+  - Transformers paso a paso[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
   
+  - Traductor Inglés-Español Tranformer[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
+
 **Diplomado:**
 
 * [UN Binder](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master)
