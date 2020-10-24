@@ -98,7 +98,8 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   - Análisis de sentimiento-Comentario de películas[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_IBDM_Reviews.ipynb)
   - Modelo seq2seq. Construcción de traductores[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_seq2seq_traductor.ipynb)
   - Generación automática de texto-Sonetos Chekespeare[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/PLN/Cuadernos/nlp_Shakespeare.ipynb)
-  
+  - [Redes ResNet](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/ResNet.ipynb)
+  - [GANS](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/GAN.ipynb)
 - Transformers
   - Transformers paso a paso[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
   
