@@ -105,6 +105,9 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
   
   - Traductor Inglés-Español Tranformer[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
 
+- Mapas auto-organizados (SOM)
+  -Introducción a SOM[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/MapasAutoOrganizados/Cuadernos/som_Introduccion.ipynb)
+
 **Diplomado:**
 
 * [UN Binder](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master)
