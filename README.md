@@ -8,7 +8,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - Aprendizaje Profundo [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/SesionInaguralAP.ipynb)
 [[Interactivo]](https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e86545159845b7c2a955e7360b8cc5d041b39b44?urlpath=lab%2Ftree%2FTemas%2FIntroduccion%2FCuadernos%2FSesionInaguralAP.ipynb)
-- Inteligencia Artificial [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/SesionInauguralIA.ipynb)
+- [Inteligencia Artificial](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/SesionInauguralIA.ipynb)
 - Video [ML Dungeon](https://www.youtube.com/watch?v=jK7Y4GsNpa8)
 - Video [Instalación de Anaconda](https://www.youtube.com/watch?v=yKG-bzLZxyI&t)
 - Tour de Herramientas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Herramientas_Tour.ipynb)
