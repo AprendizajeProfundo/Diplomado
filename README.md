@@ -115,3 +115,4 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 * [Binder](https://mybinder.org/)
 * [nbviewer](https://nbviewer.jupyter.org/)
+* [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/)
