@@ -39,14 +39,14 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
  - Modelamiento
    - ¿Qué es modelar? [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Ejemplo_Modelamiento.ipynb)
-   - Ejemplos de Modelos [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo 1- Matemáticas y Estadística/1. Matemáticas/Cuadernos/mod_Ejemplo_Modelamiento.ipynb)
+   - Ejemplos de Modelos [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/mod_Ejemplo_Modelamiento.ipynb)
    - Diferenciación[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/cal_derivadas.ipynb)
    - Optimización I [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/Optimization_1.ipynb)
    - Optimización II [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/Optimization_2.ipynb)
    - Gradiente estocástico descendiente [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am-sdg.ipynb)
  - Introducción a Pandas
-   - ¿Qué es pandas? [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo 2- Introducción a la programación/3. Programación en Python/Cuadernos/pandas_Intro.ipynb)
-   - Ejemplo clave: COVID-19 [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo 2- Introducción a la programación/3. Programación en Python/Cuadernos/pandas_COVID_Limpie_Base_Nacional.ipynb)
+   - ¿Qué es pandas? [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/pandas_Intro.ipynb)
+   - Ejemplo clave: COVID-19 [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/pandas_COVID_Limpie_Base_Nacional.ipynb)
    
 - Aprendizaje de Máquinas
    - Introducción a aprendizaje de máquinas[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Aprendizaje_Maquinas/Cuadernos/am_intro_aprendizaje_maquinas.ipynb)
@@ -69,15 +69,15 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - Series de tiempo  muy largas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Redes%20Recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
 
 - Autocodificadores
-  - Coloración de imágenes B/N[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo 6- Autocodificadores/1. Autocodificadores generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
-  - Aplicación a pruebas de Estado. Modelo TRI multidimensional[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo 6- Autocodificadores/1. Autocodificadores generales/Cuadernos/ae_Autoencoder_Exam.ipynb)  
+  - Coloración de imágenes B/N[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
+  - Aplicación a pruebas de Estado. Modelo TRI multidimensional[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam.ipynb)  
   - Aplicación a pruebas de Estado-Modelo TRI Muti-unidimensional[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Auto-encoders/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
   - Ejemplo MNIST - Modelo denso[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Auto-encoders/Cuadernos/ae_Example_Dense_mnist.ipynb)
 
 - Autocodificadores variacionales
   - Introducción a Autoencoders [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/AE_Example_Dense_mnist.ipynb)
-  - Introducción a autoencoders variacionales[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo 6- Autocodificadores/2. Autocodificadores variacionales/Cuadernos/VAE_Introduction.ipynb)
-  - Implementación  de un autoencoder variacional[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo 6- Autocodificadores/2. Autocodificadores variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb) 
+  - Introducción a autoencoders variacionales[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Introduction.ipynb)
+  - Implementación  de un autoencoder variacional[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb) 
   - Modelos TRIM y autocodificadores variacionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Autoencoders-Variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
   
 - Tratamiento de Imágenes
@@ -98,9 +98,9 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Redes ResNet](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/ResNet.ipynb)
   - [GANS](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/GAN.ipynb)
 - Transformers
-  - Transformers paso a paso[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo 8- Aprendizaje Profundo II/2. Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
+  - Transformers paso a paso[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
   
-  - Traductor Inglés-Español Tranformer[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo 8- Aprendizaje Profundo II/2. Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
+  - Traductor Inglés-Español Tranformer[[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
 
 - Mapas auto-organizados (SOM)
   - Introducción a SOM[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/MapasAutoOrganizados/Cuadernos/som_Introduccion.ipynb)
