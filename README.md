@@ -10,8 +10,6 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 [[Interactivo]](https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e86545159845b7c2a955e7360b8cc5d041b39b44?urlpath=lab%2Ftree%2FTemas%2FIntroduccion%2FCuadernos%2FSesionInaguralAP.ipynb)
 - [Inteligencia Artificial](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%200-%20Sesión%20inaugural/HTML/SesionInauguralIA.html)
 - Video [Instalación de Anaconda](https://www.youtube.com/watch?v=yKG-bzLZxyI&t)
-- Tour de Herramientas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Introduccion/Cuadernos/Herramientas_Tour.ipynb)
-[[Interactivo]]()
 - Herramientas Digitales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
 [[Interactivo]]()
 - Python, primeros pasos [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Python.ipynb)
