@@ -13,7 +13,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Herramientas Digitales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
 [[Interactivo]]()
 - Python, primeros pasos [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Python.ipynb)
-[[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Modelamiento-Metodos-Numericos/3d47764fafd73fcde3977b351101515fade1058b?urlpath=lab%2Ftree%2FCuadernos%2FIntro_Python.ipynb)
+[[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Intro_Python.html)
 - Concepto de Clase en Python [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
 
 # Preliminares
