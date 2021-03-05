@@ -21,7 +21,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Algebra Lineal
   - Introducción a Tensores I [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_I.ipynb)
   [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/a188d45232dda49cdcd8e187a6b70de06a280cee?urlpath=lab%2Ftree%2FTemas%2FFundamentos%2FCuadernos%2Ften_Intro_Tensores.ipynb)
-  - Jugando con Tensores [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_II.ipynb)
+  - Jugando con Tensores [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/1.%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_II.ipynb)
   [[Interactivo]](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/a188d45232dda49cdcd8e187a6b70de06a280cee?urlpath=lab%2Ftree%2FTemas%2FFundamentos%2FCuadernos%2Ften_Jugando_Tensores_II.ipynb)
   
 - Probabilidad
