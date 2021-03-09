@@ -1,4 +1,4 @@
-# Diplomado de IA y AP
+# Diplomado de UNAL IA y AP
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master?urlpath=lab)
 
