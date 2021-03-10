@@ -14361,7 +14361,7 @@ a.anchor-link {
 <li>Capa de entrada</li>
 <li>Una capa oculta</li>
 <li>Una capa de salida</li>
-<li>Por fuera de la red, la salida es trasnformada en una probabilidad</li>
+<li>Por fuera de la red, la salida es transformada en una probabilidad</li>
 </ul>
 <p>Una red neuronal de clasificación es una máquina (modelo) que es entrenada para clasificar objetos en distintas clases.</p>
 
@@ -14382,7 +14382,7 @@ a.anchor-link {
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p>Una vez la red es entrenada (ver modo entrenamiento abajo), la red hace el siguiente trabajo.</p>
 <ol>
-<li>Recibe un tensor, que por ejemplo representa una imágen, las características de una flor (iris), ...) y lo transforma (o proyecta) de manera no lineal en un espacio, representado por la capa de salida. La siguiente imagen puede darle una idea de lo que ocurre.</li>
+<li>Recibe un tensor, que por ejemplo representa una imágen, las características de una flor (iris), ...) y lo transforma (o proyecta) de manera no lineal en un espacio, representado por la capa oculta. La siguiente imagen puede darle una idea de lo que ocurre.</li>
 </ol>
 
 </div>
@@ -14415,7 +14415,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Cada componente corresponde a una posición relacionada cada una de las áreas mostradas en el grafico. El punto de intersección puede persarse como un cero $(0,0,0)$. En la medida en que un objeto representado aquí se aleja en dirección de un <em>color</em>, la correspondiente coordenada crece.</p>
+<p>Cada componente corresponde a una posición relacionada cada una de las áreas mostradas en el grafico. El punto de intersección puede pensarse como un cero $(0,0,0)$. En la medida en que un objeto representado aquí se aleja en dirección de un <em>color</em>, la correspondiente coordenada crece.</p>
 <p>Entonces observe que aquellos objetos que queden cerca a algún margen quedaran con valores similares en las respectivas componentes. Eso explica porque la red no clasifica 100% bien.</p>
 
 </div>
@@ -14434,6 +14434,26 @@ a.anchor-link {
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Tensores-como-distribuciones-de-probabilidad">Tensores como distribuciones de probabilidad<a class="anchor-link" href="#Tensores-como-distribuciones-de-probabilidad">&#182;</a></h2>
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="Funci&#243;n-softmax">Funci&#243;n softmax<a class="anchor-link" href="#Funci&#243;n-softmax">&#182;</a></h3>
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Dada una posición en el espacio de salida, digamos $z=(z_1,z_2,z_3)$, función softmax se define se manera sencilla como</p>
+$$
+p=(p_1,p_2, p_3) =\left( \frac{e^z_1}{e^z_1+e^z_2+e^z_3}, \frac{e^z_2}{e^z_1+e^z_2+e^z_3}, \frac{e^z_3}{e^z_1+e^z_2+e^z_3}\right)
+$$<p>Por ejemplo,</p>
+<ul>
+<li>si $z=(0,0,0)$, entonces $p=(0.333,0.333, 0.333)$.</li>
+<li>si $z =(6,1,2)$, entonces $p = (0.976,0.007 ,0.018)$</li>
+<li>si  $z=(-1,6,3)$, entonces $p = (0.001,0.952 ,0.046)$</li>
+<li>si  $z= (2.5,2.2,2.6)$, entonces $p = (0.351, 0.26 , 0.388)$</li>
+</ul>
+
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
