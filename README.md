@@ -102,7 +102,6 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [GANS](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/GAN.ipynb)
 - Transformers
   - Transformers paso a paso[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
-  
   - Traductor Inglés-Español Tranformer[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
 
 - Mapas auto-organizados (SOM)
