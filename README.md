@@ -36,7 +36,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - Tensores y distribuciones de probabilidad[[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Tensor_Distribucion_Prob.html)
 
 - Teoría de la Información
-  - Introducción a la Teoría de la Información [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/ti_Teoria_Informacion.ipynb)  
+  - Introducción a la Teoría de la Información [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/ti_Teoria_Informacion.ipynb)  
 
  - Modelamiento
    - ¿Qué es modelar? [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/1.%20Matem%C3%A1ticas/Cuadernos/mod_Modelamiento.ipynb)
