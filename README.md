@@ -110,7 +110,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Aprendizaje de Máquinas No Supervizado
    - Introducción R [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/BreveIntroduccion2R.ipynb
 )
-   - Introducción a Aprendizaje [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
+   - Introducción a Aprendizaje No Supervisado [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
 
 
 **Diplomado:**
