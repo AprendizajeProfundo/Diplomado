@@ -107,6 +107,12 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Mapas auto-organizados (SOM)
   - Introducción a SOM[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%2011-%20Mapas%20Auto%20Organizados/Cuadernos/som_Introduccion.ipynb)
 
+- Aprendizaje de Máquinas No Supervizado
+   - Introducción R [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/BreveIntroduccion2R.ipynb
+)
+   - Introducción a Aprendizaje [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
+
+
 **Diplomado:**
 
 * [UN Binder](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master)
