@@ -92,6 +92,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Tratamiento de Imágenes
   - Introducción a Convoluciones [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_convoluciones.ipynb)
   - Redes Neuronales Convolucionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_cnn.ipynb)
+  - Cats Vs Dogs (Kaggle Competition)[[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
   - InceptionV3 [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_transfer_learning.ipynb)
   - Audios tratados como Imágenes [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_Audio.ipynb)
 
