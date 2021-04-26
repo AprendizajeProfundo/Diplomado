@@ -70,6 +70,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - Detección de Fraude en tarjetas de crédito [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-fraudes_datos_desbalanceados.ipynb)
 
 - Redes Recurrentes
+  - Introducción a modelos secuenciales[[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Modelos_secuenciales.ipynb)
   - Introducción a redes LSTM [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb)
   - Introducción a redes GRU [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
   - Ejemplo Dummy de series de tiempo [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro.ipynb)
