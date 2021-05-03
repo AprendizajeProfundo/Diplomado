@@ -84,6 +84,11 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - Coloración de imágenes B/N[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
   - Aplicación a pruebas de Estado. Modelo TRI multidimensional[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam.ipynb)  
   - Aplicación a pruebas de Estado-Modelo TRI Muti-unidimensional[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
+  - Autocodificador para colorear imágenes [[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
+  - Eliminación de Ruido [[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
+  - Ejemplo eliminación de ruido con datos MNIST [[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
+  - Reconstrucción de Rostros [[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
+  - 
 
 
 - Autocodificadores variacionales
