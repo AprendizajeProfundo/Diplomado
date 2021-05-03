@@ -88,7 +88,6 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - Eliminación de Ruido [[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
   - Ejemplo eliminación de ruido con datos MNIST [[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
   - Reconstrucción de Rostros [[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
-  - 
 
 
 - Autocodificadores variacionales
