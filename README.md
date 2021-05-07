@@ -7,7 +7,6 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 # Introducción
 
 - [Aprendizaje Profundo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%200-%20Sesión%20inaugural/Cuadernos/SesionInaguralAP.ipynb)
-
 - [Inteligencia Artificial](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%200-%20Sesión%20inaugural/HTML/SesionInauguralIA.html)
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=yKG-bzLZxyI&t)
 - [Herramientas Digitales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
