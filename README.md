@@ -7,10 +7,10 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 # Introducción
 
 - [Aprendizaje Profundo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%200-%20Sesión%20inaugural/Cuadernos/SesionInaguralAP.ipynb)
+
 - [Inteligencia Artificial](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%200-%20Sesión%20inaugural/HTML/SesionInauguralIA.html)
-- Video [Instalación de Anaconda](https://www.youtube.com/watch?v=yKG-bzLZxyI&t)
-- Herramientas Digitales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
-[[Interactivo]]()
+- [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=yKG-bzLZxyI&t)
+- [Herramientas Digitales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
 - Python, primeros pasos [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Python.ipynb)
 [[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Intro_Python.html)
 - Funciones en Python [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Funciones.ipynb)
