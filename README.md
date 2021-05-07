@@ -75,6 +75,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - Ejemplo Dummy de series de tiempo [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
   - Predicción de la acción de Apple a un día [[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia-dropout.ipynb)
   - Predicción de la acción de Apple a tres días [[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-dropout-.ipynb)
+  - Predicción de todos valores en una ventana futura[[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-multiple-.ipynb)
   - Series de tiempo  Multivariadas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
   - Series de tiempo  muy largas [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
 
