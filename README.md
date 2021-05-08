@@ -1,7 +1,6 @@
 # Diplomado de IA y AP
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master?urlpath=lab)
-[![GitHub](https://cdn4.iconfinder.com/data/icons/miu-square-flat-social/60/github-square-social-media-128.png)](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Decorators.ipynb)
 
 Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo.
 
