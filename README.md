@@ -19,7 +19,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - [Concepto de Clase en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
 - [Decoradores en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Decorators.ipynb)
 
-# Preliminares
+## Preliminares
 
 - Algebra Lineal
   - Introducción a Tensores I [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_I.ipynb)
@@ -51,7 +51,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - ¿Qué es pandas? [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/pandas_Intro.ipynb)
    - Ejemplo clave: COVID-19 [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/pandas_COVID_Limpie_Base_Nacional.ipynb)
 
-# Machine Learning
+## Machine Learning
 
 - Aprendizaje de Máquinas
 
@@ -71,7 +71,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - Usando Subclassing en Keras [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-subclassing-iris.ipynb)
   - Detección de Fraude en tarjetas de crédito [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-fraudes_datos_desbalanceados.ipynb)
 
-# Redes Neuronales
+## Redes Neuronales
 
 - Redes Recurrentes
   - Introducción a modelos secuenciales[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Modelos_secuenciales.ipynb)
@@ -135,7 +135,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 )
    - Introducción a Aprendizaje No Supervisado [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
 
-# Recursos
+## Recursos
 
 * [Binder](https://mybinder.org/)
 * [nbviewer](https://nbviewer.jupyter.org/)
