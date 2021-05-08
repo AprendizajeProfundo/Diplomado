@@ -4,7 +4,7 @@
 
 Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo.
 
-# Introducción
+## Introducción
 
 - [Aprendizaje Profundo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%200-%20Sesión%20inaugural/Cuadernos/SesionInaguralAP.ipynb)
 - [Inteligencia Artificial](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%200-%20Sesión%20inaugural/HTML/SesionInauguralIA.html)
