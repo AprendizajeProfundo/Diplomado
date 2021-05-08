@@ -54,6 +54,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 # Machine Learning
 
 - Aprendizaje de Máquinas
+
    - Introducción a aprendizaje de máquinas[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am_intro_aprendizaje_maquinas.ipynb)
    - Introducción a Redes Neuronales Artificiales [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%204-%20Introducción%20a%20las%20redes%20neuronales/Cuadernos/am_Intro_RNA.ipynb) [[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Intro_RNA.ipynb)
    - Primera Red Neuronal con la API Sequential de Keras (Simulación) [[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Hello_World_ML.ipynb) [[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Hello_World_ML.html)
@@ -134,7 +135,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 )
    - Introducción a Aprendizaje No Supervisado [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
 
-**General:**
+# Recursos
 
 * [Binder](https://mybinder.org/)
 * [nbviewer](https://nbviewer.jupyter.org/)
