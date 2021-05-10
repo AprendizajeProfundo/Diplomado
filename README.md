@@ -65,7 +65,8 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - Introducción
    - [Introducción a Redes Neuronales Artificiales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%204-%20Introducción%20a%20las%20redes%20neuronales/Cuadernos/am_Intro_RNA.ipynb)
-   - [Primera Red Neuronal con la API Sequential de Keras (Simulación)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Hello_World_ML.ipynb) [[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Hello_World_ML.html)
+   - [Primera Red Neuronal con la API Sequential de Keras (Simulación)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Hello_World_ML.ipynb)
+[[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Hello_World_ML.html)
    - [Ejemplo de Visualización](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/NN_Animation.ipynb)
    - [Primera Red Neuronal con la API Sequential de Keras (MNIST)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Intro_Keras_Sequential.ipynb)
    - [Red Neuronal Desde Cero](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Red_De_Cero.ipynb)
@@ -91,50 +92,49 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Introducción a Autocodificadores. Ejemplo MNIST Denso](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_mnist.ipynb)
   - [Reconstrucción de Rostros usando LFW (Labeled Faces in the Wild)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
 [[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.html)
-  - [Coloración de imágenes B/N](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
-  - [Aplicación a pruebas de Estado. Modelo TRI multidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam.ipynb)  
-  - [Aplicación a pruebas de Estado-Modelo TRI Muti-unidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
-  - [Autocodificador para colorear imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
+  - [Coloración de imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
   - [Ejemplo eliminación de ruido con datos MNIST](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
   - [Reconstrucción de Rostros](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
   - [Autocodificador Convolucional para Eliminación de Ruido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
+  - [Aplicación a pruebas de Estado. Modelo TRI multidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam.ipynb)  
+  - [Aplicación a pruebas de Estado-Modelo TRI Muti-unidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
 
 - Autocodificadores variacionales
-  - Introducción a autoencoders variacionales[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Introduction.ipynb)
-  - Implementación  de un autoencoder variacional[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb) 
-  - Modelos TRIM y autocodificadores variacionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
+  - [Introducción a autoencoders variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Introduction.ipynb)
+  - [Implementación  de un autoencoder variacional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb) 
+  - [Modelos TRI y autocodificadores variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
   
 - Tratamiento de Imágenes
-  - Introducción a Convoluciones [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_convoluciones.ipynb)
-  - Redes Neuronales Convolucionales [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_cnn.ipynb)
-  - Cats Vs Dogs (Kaggle Competition)[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
-  - Redes Produndas Modernas [[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_redes_modernas.ipynb)
-  - Transfer Learning [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_transfer_learning.ipynb)
-  - Detección y Reconocimiento Facial [[GitHub]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
-  - Redes Residuales [[Estatico]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/ResNet.ipynb)
-  - Audios tratados como Imágenes [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_Audio.ipynb)
+  - [Introducción a Convoluciones](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_convoluciones.ipynb)
+  - [Redes Neuronales Convolucionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_cnn.ipynb)
+  - [Cats Vs Dogs (Kaggle Competition)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
+  - [Redes Produndas Modernas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_redes_modernas.ipynb)
+  - [Transfer Learning](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_transfer_learning.ipynb)
+  - [Detección y Reconocimiento Facial](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
+  - [Redes Residuales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/ResNet.ipynb)
+  - [Audios tratados como Imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_Audio.ipynb)
 
 - Procesamiento de Lenguaje Natural
-  - Introducción al tratamiento superficial de datos[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Introduccion.ipynb)
-  - Generación de texto usando caracateres y redes recurrentes[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Char_generator_RNN.ipynb)
-  - Aprendizaje Profundo para datos textuales: word2vec[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_word2vec.ipynb)
-  - Estado del arte en clasificación de documentos(2020)[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Clustering_docs.ipynb)
-  - Análisis de sentimiento-Tweets[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Sentiment%20Analysis.ipynb)
-  - Análisis de sentimiento-Comentario de películas[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_IBDM_Reviews.ipynb)
-  - Modelo seq2seq. Construcción de traductores[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_seq2seq_traductor.ipynb)
-  - Generación automática de texto-Sonetos Shakespeare[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Shakespeare.ipynb)
+  - [Introducción al tratamiento superficial de datos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Introduccion.ipynb)
+  - [Generación de texto usando caracateres y redes recurrentes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Char_generator_RNN.ipynb)
+  - [Aprendizaje Profundo para datos textuales: word2vec](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_word2vec.ipynb)
+  - [Estado del arte en clasificación de documentos(2020)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Clustering_docs.ipynb)
+  - [Análisis de sentimiento-Tweets](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Sentiment%20Analysis.ipynb)
+  - [Análisis de sentimiento-Comentario de películas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_IBDM_Reviews.ipynb)
+  - [Modelo seq2seq. Construcción de traductores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_seq2seq_traductor.ipynb)
+  - [Generación automática de texto-Sonetos Shakespeare](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Shakespeare.ipynb)
   - [GANS](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/GAN.ipynb)
+  
 - Transformers
-  - Transformers paso a paso[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
-  - Traductor Inglés-Español Tranformer[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
+  - [Transformers paso a paso](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
+  - [Traductor Inglés-Español Tranformer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
 
 - Mapas auto-organizados (SOM)
-  - Introducción a SOM[[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%2011-%20Mapas%20Auto%20Organizados/Cuadernos/som_Introduccion.ipynb)
+  - [Introducción a SOM](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%2011-%20Mapas%20Auto%20Organizados/Cuadernos/som_Introduccion.ipynb)
 
 - Aprendizaje de Máquinas No Supervizado
-   - Introducción R [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/BreveIntroduccion2R.ipynb
-)
-   - Introducción a Aprendizaje No Supervisado [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
+   - [Introducción a R](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/BreveIntroduccion2R.ipynb)
+   - [Introducción a Aprendizaje No Supervisado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
 
 ## Recursos
 
