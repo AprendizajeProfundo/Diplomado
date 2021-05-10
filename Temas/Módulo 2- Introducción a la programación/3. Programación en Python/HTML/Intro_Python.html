@@ -14332,7 +14332,7 @@ a.anchor-link {
 <li><a href="#Indentación-en-Python">Indentación en Python</a></li>
 <li><a href="#Operadores-de-comparación">Operadores de comparación</a></li>
 <li><a href="#Operadores-Lógicos">Operadores Lógicos</a></li>
-<li><a href="#Estructura-de-repetición-\(ciclos\">Estructura de repetición (ciclos)</a>)</li>
+<li><a href="#Estructura-de-repetición-[ciclos]">Estructura de repetición (ciclos)</a></li>
 <li><a href="#Estructuras-de-control-anidadas">Estructuras de control anidadas</a></li>
 <li><a href="#Listas-y-Arreglos">Listas y Arreglos</a></li>
 </ul>
@@ -14346,7 +14346,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Este es un cuaderno introductorio a Python diseñado en Jupyter Lab, exploraremos las funciones básicas disponibles de <strong>Python</strong> y la programación básica para su posterior uso en el diplomado.</p>
+<p>Este es un cuaderno introductorio a Python diseñado en JupyterLab, exploraremos las funciones básicas disponibles de <strong>Python</strong> y la programación básica para su posterior uso en el diplomado.</p>
 <p>Comencemos con un ambiente de <strong>Python 3</strong>.</p>
 <p>Para una introducción más extensa, ir <a href="https://www.w3schools.com/python/">aquí</a>.</p>
 
@@ -14480,7 +14480,7 @@ a.anchor-link {
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p>Note que el resultado se muestra sin las comillas dobles. Estas comillas dobles se usan para decirle al computador que vamos a ingresar texto.</p>
-<p>Si quisieramos escribir con un salto de linea escribimos "\n" así al escribir <code>print("hola\nmundo")</code> tenemos:</p>
+<p>Si quisieramos escribir con un salto de linea escribimos "\n" así al escribir <code>print("Hola\nMundo")</code> tenemos:</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
@@ -14622,7 +14622,8 @@ El valor de la variable y es ¡Vamos a programar!
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>En Python, como en R, Julia y otros lenguajes no es necesario declarar una variable de antemano, como ocurre en otros lenguajes como C, C++ y muchos otros. La asignación dińamica implica que es posible cambiar el tipo de dato de una variable con tan solo reasignarle un valor.</p>
+<p>En Python, como en R, Julia, Matlab y otros lenguajes no es necesario declarar una variable de antemano, como ocurre en otros lenguajes como C, C++ y muchos otros lenguajes de bajo nivel.</p>
+<p>La asignación dińamica implica que es posible cambiar el tipo de dato de una variable con tan solo reasignarle un valor.</p>
 <p>En Python, se delega al programador la responsabilidad de cuidarse de efectos no esperados al cambiar el tipo de una variable. Vea el sigueinte ejemplo.</p>
 
 </div>
@@ -14794,7 +14795,7 @@ En cambio ahora x es un string: 25 de mayo
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Se observan dos cosas interesantes. Primero, el tipo de dato es una clase 'int'. Todo en Pyhon son objetos, incluidos la variables simples. En otro cuaderno estudiremos las clases y objetos en detalle.</p>
+<p>Se observan dos cosas interesantes. Primero, el tipo de dato es una clase 'int'. Todo en Pyhon son objetos, incluidos la variables simples. En otro cuaderno estudiaremos las clases y objetos en detalle.</p>
 <p>Segundo, En pyhton puede tenr números enteros tan grandes como desee, a diferenica de otros lenguajes.</p>
 
 </div>
@@ -14858,7 +14859,7 @@ En cambio ahora x es un string: 25 de mayo
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>la sentencia <em>input</em> se utiliza para solicitar información al usuario. <em>input</em> siempre regresa un sttring.</p>
+<p>la sentencia <em>input</em> se utiliza para solicitar información al usuario. <em>input</em> siempre regresa un string.</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
@@ -15291,7 +15292,7 @@ En cambio ahora x es un string: 25 de mayo
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[18]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">d</span><span class="o">=</span><span class="s2">&quot;Texto simple escrito entre comillas dobles que necesita Q&#39;hubo comillas simples&quot;</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">d</span><span class="o">=</span><span class="s2">&quot;Texto simple escrito entre comillas dobles que necesita &#39;adentro&#39; comillas simples&quot;</span>
 <span class="nb">print</span><span class="p">(</span><span class="n">d</span><span class="p">)</span>
 </pre></div>
 
@@ -15312,7 +15313,7 @@ En cambio ahora x es un string: 25 de mayo
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>Texto simple escrito entre comillas dobles que necesita Q&#39;hubo comillas simples
+<pre>Texto simple escrito entre comillas dobles que necesita &#39;adentro&#39; comillas simples
 </pre>
 </div>
 </div>
@@ -15333,7 +15334,7 @@ En cambio ahora x es un string: 25 de mayo
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[19]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Una línea</span><span class="se">\n</span><span class="s2">otra línea&quot;</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Una línea</span><span class="se">\n</span><span class="s2">Otra línea&quot;</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -15354,7 +15355,7 @@ En cambio ahora x es un string: 25 de mayo
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
 <pre>Una línea
-otra línea
+Otra línea
 </pre>
 </div>
 </div>
@@ -16495,7 +16496,7 @@ $$ 20 \div 3 = 6 \ \ \ \text{ con residuo } 2$$<p>tenemos:</p>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>La ejecución de cualquier programa (algoritmo codificado en algún lenguaje de programación) se realiza en orden de aparición de las sentencias. Una <strong>sentencia</strong> puede ser simple (solamente una instrucción) o compuesta (Varias instrucciones.</p>
+<p>La ejecución de cualquier programa (algoritmo codificado en algún lenguaje de programación) se realiza en orden de aparición de las sentencias. Una <strong>sentencia</strong> puede ser <strong>simple</strong> (solamente una instrucción) o <strong>compuesta</strong> (varias instrucciones).</p>
 
 </div>
 </div>
@@ -16561,7 +16562,7 @@ $$ 20 \div 3 = 6 \ \ \ \text{ con residuo } 2$$<p>tenemos:</p>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Esta estructura de control está diseña para que un programa pueda seguir diferentes caminos de ejecución, dependiendo de la evaluación de una expresión lógica. Observe el siguiente ejemplo.</p>
+<p>Esta estructura de control está diseñada para que un programa pueda seguir diferentes caminos de ejecución, dependiendo de la evaluación de una expresión lógica. Observe el siguiente ejemplo.</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
@@ -16575,7 +16576,7 @@ $$ 20 \div 3 = 6 \ \ \ \text{ con residuo } 2$$<p>tenemos:</p>
 <span class="n">y</span> <span class="o">=</span> <span class="mi">3</span>
 
 <span class="k">if</span> <span class="n">x</span><span class="o">&gt;</span><span class="n">y</span><span class="p">:</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Five is greater than Three&quot;</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Cinco es mayor que Tres&quot;</span><span class="p">)</span>
     <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;lunes&quot;</span><span class="p">)</span>
 </pre></div>
 
@@ -16596,7 +16597,7 @@ $$ 20 \div 3 = 6 \ \ \ \text{ con residuo } 2$$<p>tenemos:</p>
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>Five is greater than Three
+<pre>Cinco es mayor que Tres
 lunes
 </pre>
 </div>
@@ -16624,7 +16625,7 @@ lunes
 <span class="n">y</span> <span class="o">=</span> <span class="mi">5</span>
 
 <span class="k">if</span> <span class="n">x</span><span class="o">&gt;</span><span class="n">y</span><span class="p">:</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Five is greater than Three&quot;</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Cinco es mayor que Tres&quot;</span><span class="p">)</span>
     <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;lunes&quot;</span><span class="p">)</span>
 </pre></div>
 
@@ -16651,7 +16652,7 @@ lunes
 
 <span class="k">if</span> <span class="n">x</span><span class="o">&gt;</span><span class="n">y</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;La condición es verdadera&quot;</span><span class="p">)</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;lunes&quot;</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Lunes&quot;</span><span class="p">)</span>
 <span class="k">else</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;La condición es falsa&#39;</span><span class="p">)</span>
     <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Martes&#39;</span><span class="p">)</span>
@@ -17119,7 +17120,7 @@ Martes
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Estructura-de-repetici&#243;n-(ciclos)"><span style="color:blue">Estructura de repetici&#243;n (ciclos)</span><a class="anchor-link" href="#Estructura-de-repetici&#243;n-(ciclos)">&#182;</a></h2>
+<h2 id="Estructura-de-repetici&#243;n-[ciclos]"><span style="color:blue">Estructura de repetici&#243;n [ciclos]</span><a class="anchor-link" href="#Estructura-de-repetici&#243;n-[ciclos]">&#182;</a></h2>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
@@ -17152,7 +17153,6 @@ Martes
     <span class="nb">print</span><span class="p">(</span><span class="n">contador</span><span class="p">,</span><span class="s1">&#39; &#39;</span><span class="p">,</span> <span class="n">end</span><span class="o">=</span><span class="s1">&#39;&#39;</span><span class="p">)</span>
     <span class="n">contador</span> <span class="o">=</span> <span class="n">contador</span> <span class="o">+</span> <span class="mi">1</span>
     
-
 <span class="nb">print</span><span class="p">()</span>
 <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Done&#39;</span><span class="p">)</span>
 </pre></div>
@@ -17300,7 +17300,9 @@ Done.
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>0  1  2  3  4  </pre>
+<pre>0  1  2  3  4  5  
+Se terminaron todas las iteraciones
+</pre>
 </div>
 </div>
 
@@ -17480,11 +17482,11 @@ Five is greater than Three
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[61]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">Algunas Tablas de Multiplicar:</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
-<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">12</span><span class="p">):</span> <span class="c1"># i inicalmente es 1, 2</span>
-    <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">13</span><span class="p">):</span> <span class="c1"># Recorre desde el 1 hasta el 5</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">Algunas Tablas de Multiplicar:&quot;</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">5</span><span class="p">):</span> <span class="c1"># i va aumentado desde 1, luego va a 2,3,...</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;</span><span class="se">\n</span><span class="s1">Tabla del </span><span class="si">{</span><span class="n">i</span><span class="si">}</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">13</span><span class="p">):</span> <span class="c1"># Recorre desde el 1 hasta el 12</span>
         <span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">,</span><span class="s2">&quot;x&quot;</span><span class="p">,</span><span class="n">j</span><span class="p">,</span><span class="s2">&quot; = &quot;</span><span class="p">,</span><span class="n">i</span><span class="o">*</span><span class="n">j</span><span class="p">,</span><span class="n">sep</span><span class="o">=</span><span class="s1">&#39;&#39;</span><span class="p">)</span>
-    <span class="nb">print</span><span class="p">()</span>
 </pre></div>
 
      </div>
@@ -17507,6 +17509,8 @@ Five is greater than Three
 <pre>
 Algunas Tablas de Multiplicar:
 
+Tabla del 1
+
 1x1 = 1
 1x2 = 2
 1x3 = 3
@@ -17519,6 +17523,8 @@ Algunas Tablas de Multiplicar:
 1x10 = 10
 1x11 = 11
 1x12 = 12
+
+Tabla del 2
 
 2x1 = 2
 2x2 = 4
@@ -17533,6 +17539,8 @@ Algunas Tablas de Multiplicar:
 2x11 = 22
 2x12 = 24
 
+Tabla del 3
+
 3x1 = 3
 3x2 = 6
 3x3 = 9
@@ -17546,6 +17554,8 @@ Algunas Tablas de Multiplicar:
 3x11 = 33
 3x12 = 36
 
+Tabla del 4
+
 4x1 = 4
 4x2 = 8
 4x3 = 12
@@ -17558,98 +17568,6 @@ Algunas Tablas de Multiplicar:
 4x10 = 40
 4x11 = 44
 4x12 = 48
-
-5x1 = 5
-5x2 = 10
-5x3 = 15
-5x4 = 20
-5x5 = 25
-5x6 = 30
-5x7 = 35
-5x8 = 40
-5x9 = 45
-5x10 = 50
-5x11 = 55
-5x12 = 60
-
-6x1 = 6
-6x2 = 12
-6x3 = 18
-6x4 = 24
-6x5 = 30
-6x6 = 36
-6x7 = 42
-6x8 = 48
-6x9 = 54
-6x10 = 60
-6x11 = 66
-6x12 = 72
-
-7x1 = 7
-7x2 = 14
-7x3 = 21
-7x4 = 28
-7x5 = 35
-7x6 = 42
-7x7 = 49
-7x8 = 56
-7x9 = 63
-7x10 = 70
-7x11 = 77
-7x12 = 84
-
-8x1 = 8
-8x2 = 16
-8x3 = 24
-8x4 = 32
-8x5 = 40
-8x6 = 48
-8x7 = 56
-8x8 = 64
-8x9 = 72
-8x10 = 80
-8x11 = 88
-8x12 = 96
-
-9x1 = 9
-9x2 = 18
-9x3 = 27
-9x4 = 36
-9x5 = 45
-9x6 = 54
-9x7 = 63
-9x8 = 72
-9x9 = 81
-9x10 = 90
-9x11 = 99
-9x12 = 108
-
-10x1 = 10
-10x2 = 20
-10x3 = 30
-10x4 = 40
-10x5 = 50
-10x6 = 60
-10x7 = 70
-10x8 = 80
-10x9 = 90
-10x10 = 100
-10x11 = 110
-10x12 = 120
-
-11x1 = 11
-11x2 = 22
-11x3 = 33
-11x4 = 44
-11x5 = 55
-11x6 = 66
-11x7 = 77
-11x8 = 88
-11x9 = 99
-11x10 = 110
-11x11 = 121
-11x12 = 132
-
 </pre>
 </div>
 </div>
@@ -17720,7 +17638,7 @@ Algunas Tablas de Multiplicar:
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Hacer un código que le diga al computador que devuelva los textos <strong>I'm ready to code!</strong> si su nombre tiene más de diez caracteres o <strong>Hello, World!</strong> si pasa lo contrario, para medir la longitud de su nombre utilice la función <code>len("Tu_nombre")</code>.</p>
+<p>Hacer un código que le diga al computador que devuelva los textos <strong>I'm ready to code!</strong> si su nombre tiene más de diez caracteres o <strong>Hello, World!</strong> si pasa lo contrario, para medir la longitud de su nombre utilice la función <code>len()</code>.</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
@@ -17900,8 +17818,8 @@ Algunas Tablas de Multiplicar:
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[67]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Antes: &quot;</span><span class="p">,</span> <span class="n">primos</span><span class="p">)</span>
-<span class="n">primos</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&quot;hola&quot;</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Antes  : &quot;</span><span class="p">,</span> <span class="n">primos</span><span class="p">)</span>
+<span class="n">primos</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="mi">23</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Después: &quot;</span><span class="p">,</span> <span class="n">primos</span><span class="p">)</span>
 </pre></div>
 
@@ -17922,8 +17840,8 @@ Algunas Tablas de Multiplicar:
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>Antes:  [2, 3, 5, 7, 11, 13, 17, 19]
-Después:  [2, 3, 5, 7, 11, 13, 17, 19, &#39;hola&#39;]
+<pre>Antes  :  [2, 3, 5, 7, 11, 13, 17, 19]
+Después:  [2, 3, 5, 7, 11, 13, 17, 19, 23]
 </pre>
 </div>
 </div>
@@ -17944,7 +17862,7 @@ Después:  [2, 3, 5, 7, 11, 13, 17, 19, &#39;hola&#39;]
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[68]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Antes: &quot;</span><span class="p">,</span><span class="n">primos</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Antes  : &quot;</span><span class="p">,</span><span class="n">primos</span><span class="p">)</span>
 <span class="n">primos</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">=</span><span class="mi">1</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Después: &quot;</span><span class="p">,</span><span class="n">primos</span><span class="p">)</span>
 </pre></div>
@@ -17966,8 +17884,8 @@ Después:  [2, 3, 5, 7, 11, 13, 17, 19, &#39;hola&#39;]
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>Antes:  [2, 3, 5, 7, 11, 13, 17, 19, &#39;hola&#39;]
-Después:  [1, 3, 5, 7, 11, 13, 17, 19, &#39;hola&#39;]
+<pre>Antes  :  [2, 3, 5, 7, 11, 13, 17, 19, 23]
+Después:  [1, 3, 5, 7, 11, 13, 17, 19, 23]
 </pre>
 </div>
 </div>
@@ -17988,7 +17906,7 @@ Después:  [1, 3, 5, 7, 11, 13, 17, 19, &#39;hola&#39;]
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[69]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Antes: &quot;</span><span class="p">,</span><span class="n">primos</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Antes  : &quot;</span><span class="p">,</span><span class="n">primos</span><span class="p">)</span>
 <span class="n">primos</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">1</span><span class="p">]</span><span class="o">=</span><span class="p">[]</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Después: &quot;</span><span class="p">,</span><span class="n">primos</span><span class="p">)</span>
 </pre></div>
@@ -18010,8 +17928,8 @@ Después:  [1, 3, 5, 7, 11, 13, 17, 19, &#39;hola&#39;]
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>Antes:  [1, 3, 5, 7, 11, 13, 17, 19, &#39;hola&#39;]
-Después:  [3, 5, 7, 11, 13, 17, 19, &#39;hola&#39;]
+<pre>Antes  :  [1, 3, 5, 7, 11, 13, 17, 19, 23]
+Después:  [3, 5, 7, 11, 13, 17, 19, 23]
 </pre>
 </div>
 </div>
