@@ -136,6 +136,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Generación automática de texto-Sonetos Shakespeare](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Shakespeare.ipynb)
   
 - Transformers
+  - [Introducción a mecanimos de atención][[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_Mecanismos_Atencion.ipynb)
   - [Transformers paso a paso](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
   - [Traductor Inglés-Español Tranformer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
 
