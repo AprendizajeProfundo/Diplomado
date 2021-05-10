@@ -124,7 +124,6 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [GANS](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/GAN.ipynb)
   - [StyleGAN (Soon)]()
   - [Segmentación (Soon)]()
-  - 
 
 - Procesamiento de Lenguaje Natural
   - [Introducción al tratamiento superficial de datos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Introduccion.ipynb)
