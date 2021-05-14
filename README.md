@@ -138,9 +138,9 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Transformers
   - [Introducción a mecanimos de atención](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_Mecanismos_Atencion.ipynb)
   - [Transformers paso a paso](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/trTransformers_paso_a_paso.ipynb)
-  - [Traductor Inglés-Español Tranformer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
-  - [Transformer Traductor Portugués-Ingles](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/gpu_%20transformer_traductor.ipynb)
-  - [Transformer Chatbot](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tpu_transformer_chatbot.ipynb)
+  - [Tranformer Traductor Inglés-Español con Keras ](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
+  - [Transformer Traductor Portugués-Ingles con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/gpu_%20transformer_traductor.ipynb)
+  - [Transformer Chatbot con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tpu_transformer_chatbot.ipynb)
 
 ## Recursos
 
