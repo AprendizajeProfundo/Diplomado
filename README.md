@@ -134,7 +134,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Análisis de sentimiento-Tweets](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Sentiment%20Analysis.ipynb)
   - [Análisis de sentimiento-Comentario de películas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_IBDM_Reviews.ipynb)
   - [Modelo seq2seq. Construcción de traductores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_seq2seq_traductor.ipynb)
-  - [Generación automática de texto-Sonetos Shakespeare][[Github]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Shakespeare.ipynb)
+  - [Generación automática de texto. Sonetos Shakespeare](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Shakespeare.ipynb)
   
 - Transformers
   - [Introducción a mecanismos de atención](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_Mecanismos_Atencion.ipynb)
