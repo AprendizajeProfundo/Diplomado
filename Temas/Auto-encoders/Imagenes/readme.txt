@@ -1,1 +1,0 @@
-Imágenes de autoencoders

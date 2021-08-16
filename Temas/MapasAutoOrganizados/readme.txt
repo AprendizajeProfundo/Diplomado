@@ -1,1 +1,0 @@
-Mapas auto-organizados

@@ -1,1 +1,0 @@
-Lecciones de autoencoderes variacionales

@@ -1,1 +1,0 @@
-Cuadernos de aprendizaje reforzado

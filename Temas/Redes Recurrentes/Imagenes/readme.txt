@@ -1,2 +1,0 @@
-
-Imagenes de redes recurrentes
