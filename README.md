@@ -67,7 +67,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Regresión con tf.keras 2.x](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am_regresion_Keras.ipynb)
   - [Modelo logístico de predicción en tf.keras](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-logistico-keras-cancer.ipynb)
 
-- Aprendizaje de Máquinas No Supervizado
+- Aprendizaje de Máquinas No Supervisado
    - [Introducción a R](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/BreveIntroduccion2R.ipynb)
    - [Introducción a Aprendizaje No Supervisado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
 
