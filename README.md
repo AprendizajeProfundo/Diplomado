@@ -152,7 +152,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
  - [Gráficos con Matplotlib](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Cuaderno_Matplotlib.ipynb)
  - [Canalización de datos. La API tf.data](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
  - [Expresiones regulares con Regex](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Regex.ipynb)
- - []()
+ - [Organización y carga de imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/ti_Carga_de_imagenes.ipynb)
 
 ## Recursos
 
