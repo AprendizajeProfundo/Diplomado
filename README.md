@@ -48,8 +48,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Regresión Lineal en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Regresi%C3%B3n-Lineal-Pyton.ipynb)
    - [Clasificación Lineal en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Clasificacion_Lineal.ipynb)
  - Introducción a Pandas
-   - [¿Qué es pandas?](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/pandas_Intro.ipynb)
-   - [Ejemplo clave: COVID-19](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/pandas_COVID_Limpie_Base_Nacional.ipynb)
+  
 
 ## Machine Learning
 
@@ -149,7 +148,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - [Mi Primer Notebook](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Mi_Primer_Notebook.ipynb)
 - [Distribuciones de Probabilidad en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Distribuciones.ipynb)
-
+ - [Taller Pandas: COVID-19](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/pandas_COVID_Limpie_Base_Nacional.ipynb)
 
 ## Recursos
 
