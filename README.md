@@ -147,6 +147,14 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Transformer Traductor Portugués-Ingles con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/gpu_%20transformer_traductor.ipynb)
   - [Transformer Chatbot con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tpu_transformer_chatbot.ipynb)
 
+- HuggingFace
+   - [Entubamiento(pipeline](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
+   - [PLN por dentro del entubamiento](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_02_pipeline_por%20dentro.ipynb)
+   - [Modelos en HuggingFace](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_03_Models.ipynb)
+   - [Tokenizadores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_04_Tokenizers.ipynb)
+   - [Modelos pre-entrenados: BERT]https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_06_BERT_pretraining.ipynb()
+   - [BERT - Español](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_06_BERT_pretraining_sp.ipynb)
+   - [Gneración de texto: Blender y Gpt-2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_gpt2.ipynb)
 
 - Aprendizaje Reforzado
    - [Introducción al Aprendizaje Reforzado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Aprendizaje_Reforzado_Intro.ipynb)
