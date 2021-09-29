@@ -26,8 +26,8 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 ## Preliminares
 
 - Algebra Lineal
-  - [Introducción a Tensores I](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_I.ipynb)
-  - [Jugando con Tensores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/1.%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_II.ipynb)
+   - [Jugando con Tensores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/1.%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_II.ipynb)
+   - [Introducción a Tensores con Numpy](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_I.ipynb)
 
 - Probabilidad
   - [Conceptos básicos de probabilidad](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Conceptos_Basicos.ipynb)
