@@ -85,6 +85,10 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Usando Subclassing en Keras](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-subclassing-iris.ipynb)
   - [Detección de Fraude en tarjetas de crédito](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-fraudes_datos_desbalanceados.ipynb)
 
+- Pytorch
+   - [Inicio rápido] [[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_01.ipynb)
+
+
 - Redes Recurrentes
   - [Introducción a modelos secuenciales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Modelos_secuenciales.ipynb)
   - [Introducción a redes recurrentes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
