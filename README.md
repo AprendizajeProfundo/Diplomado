@@ -67,7 +67,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Mapas auto-organizados (SOM)
   - [Introducción a SOM](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%2011-%20Mapas%20Auto%20Organizados/Cuadernos/som_Introduccion.ipynb)
 
-## Aprendizaje Profundo e Inteligencia Artifical
+## Aprendizaje Profundo e Inteligencia Artificial
 
 - Introducción a redes neuronales
    - [Introducción a Redes Neuronales Artificiales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%204-%20Introducción%20a%20las%20redes%20neuronales/Cuadernos/am_Intro_RNA.ipynb)
