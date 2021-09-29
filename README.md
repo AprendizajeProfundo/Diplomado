@@ -62,11 +62,11 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - Aprendizaje de Máquinas No Supervisado
    - [Introducción a R](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/BreveIntroduccion2R.ipynb)
-   - [Introducción a Aprendizaje No Supervisado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
-   - [Análisis en Componentes principales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACP.ipynb)
+   - [Introducción a aprendizaje no supervisado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
+   - [Análisis en componentes principales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACP.ipynb)
    - [Análisis de correspondencias simples (ACS)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACS.ipynb)
    - [Análsis de correspondencias múltiples](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACM.ipynb)
-   - [Agrupamiento (clústers](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/Agrupamiento.ipynb)
+   - [Agrupamiento (clustering)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/Agrupamiento.ipynb)
 
 - Mapas auto-organizados (SOM)
   - [Introducción a SOM](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%2011-%20Mapas%20Auto%20Organizados/Cuadernos/som_Introduccion.ipynb)
