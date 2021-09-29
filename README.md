@@ -12,10 +12,6 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
 - [Herramientas Digitales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
 
-## Prácticas
-
-- [Mi Primer Notebook](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Mi_Primer_Notebook.ipynb)
-
 
 ## Preliminares
 
@@ -147,6 +143,12 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Tranformer Traductor Inglés-Español con Keras ](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
   - [Transformer Traductor Portugués-Ingles con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/gpu_%20transformer_traductor.ipynb)
   - [Transformer Chatbot con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tpu_transformer_chatbot.ipynb)
+
+## Prácticas
+
+- [Mi Primer Notebook](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Mi_Primer_Notebook.ipynb)
+- [Distribuciones de Probabilidad en Python]
+
 
 ## Recursos
 
