@@ -150,7 +150,8 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - [Distribuciones de Probabilidad en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Distribuciones.ipynb)
  - [Taller Pandas: COVID-19](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/pandas_COVID_Limpie_Base_Nacional.ipynb)
  - [Gráficos con Matplotlib](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Cuaderno_Matplotlib.ipynb)
- - 
+ - [Canalización de datos. La API tf.data](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
+ - []()
 
 ## Recursos
 
