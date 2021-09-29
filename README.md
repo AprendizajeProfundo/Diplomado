@@ -1,10 +1,10 @@
-# Diplomado de IA y AP
+# Diplomado de IA y AP :mortar_board:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master?urlpath=lab)
 
 Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo.
 
-## Introducción
+## Introducción :bookmark_tabs:
 - [Inteligencia Artificial. Claves de su desarrollo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%200-%20Sesi%C3%B3n%20inaugural/Cuadernos/ap_IA_Estado_Arte.ipynb)
 - [Inteligencia Artificial. Estado del Arte](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%200-%20Sesi%C3%B3n%20inaugural/Cuadernos/Estado_del_Arte.ipynb)
 - [Aprendizaje Profundo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%200-%20Sesión%20inaugural/Cuadernos/SesionInaguralAP.ipynb)
@@ -13,7 +13,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - [Herramientas Digitales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
 
 
-## Preliminares
+## Preliminares :snake:
 
 - Programación con Python
    - [Python, primeros pasos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Python.ipynb)
@@ -25,20 +25,20 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Tratamiento de datos con Pandas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Pandas.ipynb)
    - [Introducción a tensores con Numpy](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_I.ipynb)
 
-- Probabilidad
+- Probabilidad 
   - [Conceptos básicos de probabilidad](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Conceptos_Basicos.ipynb)
   - [Variables aleatorias](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Variables_Aleatorias.ipynb)
   - [Probabilidad conjunta](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Var_Prob_conjunta.ipynb)
   - [Distribuciones continuas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Distribuciones_continuas.ipynb)
 
-- Algebra Lineal
+- Algebra Lineal 
    - [Jugando con tensores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/1.%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_II.ipynb)
    - [Tensores y distribuciones de probabilidad](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Tensor_Distribucion_Prob.ipynb)
 
-- Teoría de la Información
+- Teoría de la Información 
   - [Introducción a la teoría de la información](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/ti_Teoria_Informacion.ipynb)
 
- - Modelación
+ - Modelación 
    - [¿Qué es modelar?](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/1.%20Matem%C3%A1ticas/Cuadernos/mod_Modelamiento.ipynb)
    - [Ejemplos de Modelos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/1.%20Matem%C3%A1ticas/Cuadernos/mod_Ejemplo_Modelamiento.ipynb)
    - [Diferenciación](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/cal_derivadas.ipynb)
@@ -49,7 +49,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Clasificación Lineal en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Clasificacion_Lineal.ipynb)
   
 
-## Machine Learning
+## Machine Learning :robot:
 
 - Aprendizaje de Máquinas
 
@@ -71,7 +71,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Mapas auto-organizados (SOM)
   - [Introducción a SOM](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%2011-%20Mapas%20Auto%20Organizados/Cuadernos/som_Introduccion.ipynb)
 
-## Aprendizaje Profundo e Inteligencia Artificial
+## Aprendizaje Profundo e Inteligencia Artificial :robot:
 
 - Introducción a redes neuronales
    - [Introducción a Redes Neuronales Artificiales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%204-%20Introducción%20a%20las%20redes%20neuronales/Cuadernos/am_Intro_RNA.ipynb)
@@ -173,7 +173,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Algortimos de diferencia temporal](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Time_Diff_QLearning.ipynb)
    - [Aprendizaje reforzado en videojuegos. Unity](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Unity.ipynb)
 
-## Talleres
+## Talleres :memo:
 
 - [Mi Primer Notebook](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Mi_Primer_Notebook.ipynb)
 - [Distribuciones de Probabilidad en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Distribuciones.ipynb)
@@ -184,7 +184,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
  - [Organización y carga de imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/ti_Carga_de_imagenes.ipynb)
  - [PLN: Calificación automática de ensayos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/Practica_2_NLP.ipynb)
 
-## Recursos
+## Recursos :pushpin:
 
 * [Binder](https://mybinder.org/)
 * [nbviewer](https://nbviewer.jupyter.org/)
