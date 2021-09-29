@@ -20,12 +20,12 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 ## Preliminares
 
 - Programación con Python
-- [Python, primeros pasos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Python.ipynb)
-- [Funciones en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Funciones.ipynb)
-- [Colecciones de Objetos en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Colecciones.ipynb)
-- [Módulos en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Paquetes.ipynb)
-- [Concepto de Clase en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
-- [Decoradores en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Decorators.ipynb)
+   - [Python, primeros pasos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Python.ipynb)
+   - [Funciones en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Funciones.ipynb)
+   - [Colecciones de Objetos en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Colecciones.ipynb)
+   - [Módulos en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Paquetes.ipynb)
+   - [Concepto de Clase en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
+   - [Decoradores en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Decorators.ipynb)
 
 - Algebra Lineal
    - [Jugando con tensores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/1.%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_II.ipynb)
