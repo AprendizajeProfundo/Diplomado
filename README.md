@@ -86,7 +86,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Detección de Fraude en tarjetas de crédito](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-fraudes_datos_desbalanceados.ipynb)
 
 - Pytorch
-   - [Inicio rápido] [[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_01.ipynb)
+   - [Inicio rápido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_01.ipynb) 
    - [Tensores] [[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_02.ipynb)
    - [Datasets y Dataloader] [[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_03.ipynb)
    - [Transformaciones] [[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_04.ipynb)
