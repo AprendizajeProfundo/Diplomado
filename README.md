@@ -96,6 +96,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - Tensorflow :fire:
    - [Inicio rápido][[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo-16%20Tensorflow/Caudernos/Tensorflow-01.ipynb)
+   - [Datasets. La API tf.data](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
    
 - Redes Recurrentes :repeat:
   - [Introducción a modelos secuenciales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Modelos_secuenciales.ipynb)
