@@ -95,7 +95,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Entrenamiento de modelos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2015-%20Pytorch/Cuadernos/Pythorch_06.ipynb)
 
 - Tensorflow :fire:
-   - [Inicio rápido][[Github]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo-16%20Tensorflow/Caudernos/Tensorflow-01.ipynb)
+   - [Inicio rápido](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo-16%20Tensorflow/Caudernos/Tensorflow-01.ipynb)
    - [Datasets. La API tf.data](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
    
 - Redes Recurrentes :repeat:
