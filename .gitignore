@@ -8,6 +8,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+#linux directories
+.directory
+
 # IPython
 profile_default/
 ipython_config.py
