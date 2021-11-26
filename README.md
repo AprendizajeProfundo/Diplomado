@@ -163,6 +163,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Transformer Traductor Inglés-Español con Keras ](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
   - [Transformer Traductor Portugués-Ingles con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/gpu_%20transformer_traductor.ipynb)
   - [Transformer Chatbot con tf2](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/pln_sesion_05_02_transformer_chatbot.ipynb)
+  - [Introducción al modelo BERT](https://nbviewer.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/pln_BERT_Intro.ipynb)
 
 - HuggingFace :blush:
    - [Entubamiento(pipeline)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
