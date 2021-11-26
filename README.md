@@ -165,7 +165,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Transformer Chatbot con tf2](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/pln_sesion_05_02_transformer_chatbot.ipynb)
 
 - HuggingFace :blush:
-   - [Entubamiento(pipeline](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
+   - [Entubamiento(pipeline)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
    - [PLN por dentro del entubamiento](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_02_pipeline_por%20dentro.ipynb)
    - [Modelos en HuggingFace](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_03_Models.ipynb)
    - [Tokenizadores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_04_Tokenizers.ipynb)
