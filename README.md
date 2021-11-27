@@ -194,6 +194,8 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
  - [Expresiones regulares con Regex](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Regex.ipynb)
  - [Organización y carga de imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/ti_Carga_de_imagenes.ipynb)
  - [PLN: Calificación automática de ensayos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/Practica_2_NLP.ipynb)
+ - [Tensorboard en Pytorch](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Tensorboard%20en%20pytorch.ipynb)
+ - [Tensorboard en Tensorflow](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Tensorboard%20en%20tensorflow.ipynb)
 
 ## Recursos :pushpin:
 
