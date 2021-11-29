@@ -172,7 +172,8 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Tokenizadores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_04_Tokenizers.ipynb)
    - [Modelos pre-entrenados: BERT](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_06_BERT_pretraining.ipynb)
    - [BERT - Español](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_06_BERT_pretraining_sp.ipynb)
-   - [Gneración de texto: Blender y Gpt-2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_gpt2.ipynb)
+   - [Generación de texto: Blender y Gpt-2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_gpt2.ipynb)
+   - [Chatbot empresarial usando transformers](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/Chatbot/tr_Wago_v1.ipynb)
 
 - Aprendizaje Reforzado :mag_right:
    - [Introducción al Aprendizaje Reforzado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Aprendizaje_Reforzado_Intro.ipynb)
