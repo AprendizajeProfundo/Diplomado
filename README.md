@@ -138,7 +138,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Redes Residuales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/ResNet.ipynb)
   - [Audios tratados como Imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_Audio.ipynb)
   - [Análisis de Sentimientos en videos](https://drive.google.com/file/d/1IYUphobzz-ai7bvRA144REq9inW7d4q5/view?usp=sharing)
-  - [GANS](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Ciencia-de-Datos/blob/f871b4cc0b925431fd772026561ab6550652a3f5/Cuadernos/GAN.ipynb)
+  - [GANS](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/6.%20Redes%20generativas%20adversarias/Cuadernos/GAN.ipynbb)
   - [StyleGAN (Jeff Heaton)](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
   - [Segmentación I](https://colab.research.google.com/drive/1AmaRGcvXE5cC4pCAtAAEy7W7bvRJnFKX?authuser=1)
   - [Segmentación II](https://colab.research.google.com/drive/1V_S9RygDS0kk7hxyVg0_6rQhk4Seqd1F?usp=sharing)
