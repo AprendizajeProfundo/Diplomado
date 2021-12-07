@@ -181,7 +181,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [El problema del bandido multi-brazo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Bandido_Multi_brazo%20.ipynb)
    - [Q-Aprendizaje](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb)
    - Q-Aprendizaje-2 [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Q_Learning-02.ipynb)
-   - [Q-Aprendizaje con redes neuronales: DQN](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning.ipynb)
+   - [Q-Aprendizaje con redes neuronales: DQN](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_DQN_Learning.ipynb)
    - [Algortimo doble DQN](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Double_DQN_Learning.ipynb)
    - [Algortimos de diferencia temporal](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Time_Diff_QLearning.ipynb)
    - [Aprendizaje reforzado en videojuegos. Unity](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Unity.ipynb)
