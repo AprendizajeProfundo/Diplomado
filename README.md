@@ -146,7 +146,6 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - Procesamiento de Lenguaje Natural :abcd:
   - [Introducción al tratamiento superficial de datos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Introduccion.ipynb)
-  - [Introducción al tratamiento superficial de datos (English)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Introduccion_spanish.ipynb)
   - [Generación de texto usando caracateres y redes recurrentes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Char_generator_RNN.ipynb)
   - [Aprendizaje Profundo para datos textuales: word2vec](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_word2vec.ipynb)
   - [Estado del arte en clasificación de documentos(2020)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Clustering_docs.ipynb)
@@ -169,6 +168,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - HuggingFace :blush:
    - [Entubamiento(pipeline)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
+   - [Pipeline-English)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/nlp_HuggingFace_01_pipeline-en.ipynb)
    - [PLN por dentro del entubamiento](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_02_pipeline_por%20dentro.ipynb)
    - [Modelos en HuggingFace](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_03_Models.ipynb)
    - [Tokenizadores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_04_Tokenizers.ipynb)
