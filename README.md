@@ -6,7 +6,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 ## Introducción :bookmark_tabs:
 - [Inteligencia Artificial. Claves de su desarrollo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%200-%20Sesi%C3%B3n%20inaugural/Cuadernos/ap_IA_Estado_Arte.ipynb)
-- [Inteligencia Artificial. Estado del Arte](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%200-%20Sesi%C3%B3n%20inaugural/Cuadernos/Estado_del_Arte.ipynb)
+- [Inteligencia Artificial. Estado del Arte](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%200-%20Sesi%C3%B3n%20inaugural/Cuadernos/ap_Estado_del_Arte_2.ipynb)
 - [Aprendizaje Profundo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%200-%20Sesión%20inaugural/Cuadernos/SesionInaguralAP.ipynb)
 - [Inteligencia Artificial](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%200-%20Sesión%20inaugural/HTML/SesionInauguralIA.html)
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
