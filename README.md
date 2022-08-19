@@ -73,7 +73,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 ## Aprendizaje Profundo e Inteligencia Artificial :fireworks:
 
 - Introducción a redes neuronales :brain:
-   - [Introducción a Redes Neuronales Artificiales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%204-%20Introducción%20a%20las%20redes%20neuronales/Cuadernos/am_Intro_RNA.ipynb)
+   - [Introducción a Redes Neuronales Artificiales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Intro_RNA.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Presentaciones/am_Intro_RNA.slides.html#/)
    - [Funciones de activación](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Activation_Functions.ipynb)
    - [Primera Red Neuronal con la API Sequential de Keras (Simulación)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Hello_World_ML.ipynb)
 [[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Hello_World_ML.html)
