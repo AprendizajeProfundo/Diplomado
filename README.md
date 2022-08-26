@@ -24,12 +24,12 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Tratamiento de datos con Pandas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Pandas.ipynb)
    - [Introducción a tensores con Numpy](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_I.ipynb)
 
-- Probabilidad :bar_chart:
+- Probabilidad y Estadística :bar_chart:
   - [Conceptos básicos de probabilidad](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Conceptos_Basicos.ipynb)
   - [Variables aleatorias](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Variables_Aleatorias.ipynb)
   - [Probabilidad conjunta](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Var_Prob_conjunta.ipynb)
   - [Distribuciones continuas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Distribuciones_continuas.ipynb)
-  -[Funciones de pérdida](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Funciones_Perdida.ipynb)
+  - [Funciones de pérdida](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Funciones_Perdida.ipynb)
   - [Métricas](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Metricas.ipynb)
 
 - Algebra Lineal :triangular_ruler:
