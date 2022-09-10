@@ -121,7 +121,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Ejemplo eliminación de ruido con datos MNIST](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
   - [Autocodificador Convolucional para Eliminación de Ruido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
   - [Aplicación a pruebas de Estado. Modelo TRI multidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam.ipynb)
-  - [Aplicación a pruebas de Estado-Modelo TRI Muti-unidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
+  - [Aplicación a pruebas de Estado. Modelo TRI Muti-unidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
 
 - Autocodificadores variacionales :large_blue_diamond:
   - [Introducción a autoencoders variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Introduction.ipynb)
