@@ -180,6 +180,12 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Web Scraping
    - [Web Scraping y resúmen de noticias con Google News](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/nlp_Web_Scraping.ipynb)
 
+- Deployment
+   - [Dash Desde Cero]
+   - [Componentes de Dash]
+   - [Callbacks]
+   - [Deployment con Dash usando NLP](#https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2016-%20Deployment/Cuadernos/Dash_Deployment.ipynb)  
+
 - Aprendizaje Reforzado :mag_right:
    - [Introducción al Aprendizaje Reforzado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Aprendizaje_Reforzado_Intro.ipynb)
    - [El problema del bandido multi-brazo](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Bandido_Multi_brazo%20.ipynb)
