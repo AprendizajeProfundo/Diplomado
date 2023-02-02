@@ -184,7 +184,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Dash Desde Cero]
    - [Componentes de Dash]
    - [Callbacks]
-   - [Deployment con Dash usando NLP](#https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2016-%20Deployment/Cuadernos/Dash_Deployment.ipynb)  
+   - [Deployment con Dash usando NLP](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2016-%20Deployment/Cuadernos/Dash_Deployment.ipynb) 
 
 - Aprendizaje Reforzado :mag_right:
    - [Introducción al Aprendizaje Reforzado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Aprendizaje_Reforzado_Intro.ipynb)
