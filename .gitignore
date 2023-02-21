@@ -18,6 +18,7 @@ ipython_config.py
 # DS_STORE Mac
 
 .DS_Store
+*/.DS_Store
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
