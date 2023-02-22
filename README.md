@@ -7,9 +7,10 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 ## Introducción :bookmark_tabs:
 - Inteligencia Artificial. Claves de su desarrollo [nbviewer](), [Slides](), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/Cuadernos/ap_IA_Claves_Desarrollo.ipynb)
 - Inteligencia Artificial. Estado del Arte [nbviewer](), [Slides](), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/Cuadernos/ap_IA_Estado_del_Arte.ipynb)
-- [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
-- [Herramientas Digitales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/1.%20Entornos%20de%20Programacio%CC%81n%20y%20Desarrollo/Cuadernos/Herramientas_Digitales.ipynb) , [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/1.%20Entornos%20de%20Programacio%CC%81n%20y%20Desarrollo/Cuadernos/Herramientas_Digitales.ipynb)
-   - [Imágenes en JupyterLab](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/1.%20Entornos%20de%20Programacio%CC%81n%20y%20Desarrollo/Cuadernos/Imagenes_Jupyter.ipynb) , [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/1.%20Entornos%20de%20Programacio%CC%81n%20y%20Desarrollo/Cuadernos/Imagenes_Jupyter.ipynb)
+- Herramientas Digitales [nbviewer](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Herramientas_Digitales.ipynb)
+    - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
+    - Mi primer Notebook [nbviewer](), [GitHub]()
+    - Imágenes en JupyterLab [nbviewer]() , [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Imagenes_Jupyter.ipynb)
 
 ## Preliminares :books:
 

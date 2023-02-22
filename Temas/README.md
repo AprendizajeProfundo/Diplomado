@@ -1,3 +1,5 @@
+# M—dulos de Diplomado
+
 En este directorio se dejará el material asociado al diplomado con la estructura desacoplada de cada uno de los temas tratados.
 
 La estructura de los directorios es:
