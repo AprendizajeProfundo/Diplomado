@@ -1,6 +1,6 @@
-# Módulos de Diplomado
+# M√≥dulos de Diplomado
 
-En este directorio se dejar· el material asociado al diplomado con la estructura desacoplada de cada uno de los temas tratados.
+En este directorio se dejar√° el material asociado al diplomado con la estructura desacoplada de cada uno de los temas tratados.
 
 La estructura de los directorios es:
 
@@ -18,11 +18,11 @@ La estructura de los directorios es:
 		- Cuadernos
 			- N_1.ipynb
 			- ...
-		- MÛdulos
+		- M√≥dulos
 			- m1.py
 			- ...
 - Talleres
 - ...
-- Otras carpetas de interÈs
+- Otras carpetas de inter√©s
 
-Dicha estructura asegura el desacople de los temas y su futura modificaciÛn de manera eficiente.
+Dicha estructura asegura el desacople de los temas y su futura modificaci√≥n de manera eficiente.
