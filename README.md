@@ -8,9 +8,11 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - [Inteligencia Artificial. Claves de su desarrollo](), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/Cuadernos/ap_IA_Claves_Desarrollo.ipynb), [Slides]()
 - [Inteligencia Artificial. Estado del Arte](), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/Cuadernos/ap_IA_Estado_del_Arte.ipynb), [Slides]()
 - [Herramientas Digitales](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Herramientas_Digitales.ipynb)
-    - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
-    - [Mi primer Notebook](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Mi_Primer_Notebook.ipynb)
-    - [Imágenes en JupyterLab](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Imagenes_Jupyter.ipynb)
+- [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
+- [Ambientes Virtuales]()
+- [Instalación de Kernels]()
+- [Mi primer Notebook](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Mi_Primer_Notebook.ipynb)
+- [Imágenes en JupyterLab](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Imagenes_Jupyter.ipynb)
 
 ## Preliminares :books:
 
