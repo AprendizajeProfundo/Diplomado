@@ -3,14 +3,14 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master?urlpath=lab)
 
 Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo Básico.
- [![Binder](logo.png)](https://mybinder.org/v2/gh/AprendizajeProfundo/Diplomado/master?urlpath=lab)
+
 ## Introducción :bookmark_tabs:
 - Inteligencia Artificial. Claves de su desarrollo [nbviewer](), [Slides](), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/Cuadernos/ap_IA_Claves_Desarrollo.ipynb)
 - Inteligencia Artificial. Estado del Arte [nbviewer](), [Slides](), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/Cuadernos/ap_IA_Estado_del_Arte.ipynb)
 - Herramientas Digitales [nbviewer](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Herramientas_Digitales.ipynb)
     - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
-    - Mi primer Notebook [nbviewer](), [GitHub]()
-    - Imágenes en JupyterLab [nbviewer]() , [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Imagenes_Jupyter.ipynb)
+    - Mi primer Notebook [nbviewer](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Mi_Primer_Notebook.ipynb)
+    - Imágenes en JupyterLab [nbviewer](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Imagenes_Jupyter.ipynb)
 
 ## Preliminares :books:
 
