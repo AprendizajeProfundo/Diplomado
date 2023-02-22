@@ -18,13 +18,20 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 ## Preliminares :books:
 
 - Programación en Python :snake:
-   - [Python, primeros pasos](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Intro_Python.ipynb)
-   - [Funciones en Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Funciones.ipynb)
-   - [Colecciones de Objetos en Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Colecciones.ipynb)
-   - [Módulos en Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Intro_Paquetes.ipynb)
-   - [Concepto de Clase en Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
-   - [Decoradores en Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Decorators.ipynb)
-   - [Introducción a Pandas](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Intro_pandas.ipynb)
+   - [Conceptos básicos de programación](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0000_Conceptos_Basicos.ipynb)
+   - [Introducción a Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0010_Intro_Python.ipynb)
+   - [Tipos de datos básicos](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0020_Tipos_Datos_Basicos.ipynb)
+   - [Operadores](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Operadores.ipynb)
+   - [Estructuras de Control](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0040_Estructuras_de_Control.ipynb)
+   - [Funciones](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0050_Funciones.ipynb)
+   - [Iteradores e iterables](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0060_Iterables_Iteradores.ipynb)
+   - [Tuplas](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0070_Tuplas.ipynb)
+   - [Listas](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0080_Listas.ipynb)
+   - [Diccionarios](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0090_Diccionarios.ipynb)
+   - [Conjuntos](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0100_Conjuntos.ipynb)
+   - [Programación Orientada a Objetos](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0110_POO.ipynb)
+   - [Decoradores](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0120_Decoradores.ipynb)
+   - [Blue-prints: Buenas prácticas de programacion](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0130_Patrones_POO.ipynb)
 
 - Probabilidad y Estadística :bar_chart:
   - [Conceptos básicos de probabilidad](), [GitHub](./Temas/Módulo%2001%20-%20Matemáticas%20y%20Estadística/02%20-%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Conceptos_Basicos.ipynb)
