@@ -2,13 +2,13 @@ En este directorio se dejará el material asociado al diplomado con la estructura
 
 La estructura de los directorios es:
 
-- Temas
-	- Tema 1
-	...
-	- Tema n
-		- Datos
-			- Datos_1.csv
-			...
+- # Temas
+    - ## Tema 1
+	- ...
+	- ## Tema n
+		- ### Datos
+			- #### Datos_1.csv
+			- ...
 		- Imagenes
 			- Ejemplo.png
 			...
