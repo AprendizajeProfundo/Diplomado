@@ -18,13 +18,12 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - Programación en Python :snake:
    - [Python, primeros pasos](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Intro_Python.ipynb)
-   - [Funciones en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Funciones.ipynb)
-   - [Colecciones de Objetos en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Colecciones.ipynb)
-   - [Módulos en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Paquetes.ipynb)
-   - [Concepto de Clase en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
-   - [Decoradores en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Decorators.ipynb)
-   - Introducción a Pandas[Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/pandas_Intro.ipynb)
-   - [Tratamiento de datos con Pandas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Pandas.ipynb)
+   - [Funciones en Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Funciones.ipynb)
+   - [Colecciones de Objetos en Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Colecciones.ipynb)
+   - [Módulos en Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Intro_Paquetes.ipynb)
+   - [Concepto de Clase en Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
+   - [Decoradores en Python](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Decorators.ipynb)
+   - [Introducción a Pandas](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Intro_pandas.ipynb)
    - [Introducción a tensores con Numpy](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_I.ipynb)
 
 - Probabilidad y Estadística :bar_chart:
@@ -206,6 +205,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - [Mi Primer Notebook](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Mi_Primer_Notebook.ipynb)
 - [Distribuciones de Probabilidad en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Distribuciones.ipynb)
+- [Tratamiento de datos con Pandas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Pandas.ipynb)
  - [Taller Pandas: COVID-19](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/pandas_COVID_Limpie_Base_Nacional.ipynb)
  - [Gráficos con Matplotlib](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Cuaderno_Matplotlib.ipynb)
  - [Canalización de datos. La API tf.data](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
