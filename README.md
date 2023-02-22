@@ -26,7 +26,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Introducción a Pandas](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/Intro_pandas.ipynb)
 
 - Probabilidad y Estadística :bar_chart:
-  - [Conceptos básicos de probabilidad](), [GitHub](./Temas/Módulo%2001%20-%20Matemáticas%20y%20Estadística/02%20-%20Estadísica,%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Conceptos_Basicos.ipynb)
+  - [Conceptos básicos de probabilidad](), [GitHub](./Temas/Módulo%2001%20-%20Matemáticas%20y%20Estadística/02%20-%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Conceptos_Basicos.ipynb)
   - [Variables aleatorias](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Variables_Aleatorias.ipynb)
   - [Probabilidad conjunta](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Var_Prob_conjunta.ipynb)
   - [Distribuciones continuas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Distribuciones_continuas.ipynb)
