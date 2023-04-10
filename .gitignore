@@ -5,7 +5,7 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
-.ipynb_checkpoints
+.ipynb_checkpoints/
 */.ipynb_checkpoints/*
 
 #linux directories
@@ -14,6 +14,11 @@
 # IPython
 profile_default/
 ipython_config.py
+
+# DS_STORE Mac
+
+.DS_Store
+*/.DS_Store
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/

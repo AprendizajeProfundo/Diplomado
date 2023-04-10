@@ -1,1 +1,0 @@
-Imágenes autoencoders variacionales

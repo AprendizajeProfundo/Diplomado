@@ -1,1 +1,0 @@
-Bases de Tensorflow

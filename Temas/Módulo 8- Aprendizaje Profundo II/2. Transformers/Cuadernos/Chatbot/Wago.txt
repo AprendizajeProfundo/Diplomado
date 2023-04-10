@@ -1,1 +1,0 @@
-Primera versión de un asistente virtual que resume noticias de la web.
