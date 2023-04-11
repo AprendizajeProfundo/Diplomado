@@ -6,8 +6,8 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 ## Introducción :bookmark_tabs:
 - [Roles en Data Science](), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/Cuadernos/ap_Roles_Data_science.ipynb), [Slides]()
-- [Inteligencia Artificial. Claves de su desarrollo](), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/Cuadernos/ap_IA_Claves_Desarrollo.ipynb), [Slides]()
-- [Inteligencia Artificial. Estado del Arte](), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/Cuadernos/ap_IA_Estado_del_Arte.ipynb), [Slides]()
+- [Inteligencia Artificial. Claves de su desarrollo](), [GitHub](./Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/cuadernos/ap_IA_Claves_Desarrollo.ipynb), [Slides]()
+- [Inteligencia Artificial. Estado del Arte](), [GitHub](./Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/cuadernos/ap_IA_Estado_del_Arte.ipynb), [Slides]()
 - [Herramientas Digitales](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Herramientas_Digitales.ipynb)
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
 - [Ambientes Virtuales](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Ambientes_Virtuales.ipynb)
