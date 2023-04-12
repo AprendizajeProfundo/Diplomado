@@ -15,8 +15,8 @@ Actualización hasta aquí...
 ---
 - [Herramientas Digitales](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/cuadernos/Herramientas_Digitales.ipynb)
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
-- [Ambientes Virtuales](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Ambientes_Virtuales.ipynb)
-- [Instalación de Kernels](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Instalando_Kernels.ipynb)
+- [Ambientes Virtuales](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/cuadernos/Ambientes_Virtuales.ipynb)
+- [Instalación de Kernels](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/cuadernos/Instalando_Kernels.ipynb)
 - [Mi primer Notebook](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Mi_Primer_Notebook.ipynb)
 - [Introducción a JupyterLab](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Intro_Jupyter.ipynb)
 
