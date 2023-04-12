@@ -8,16 +8,16 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - [Roles en Data Science](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/cuadernos/ap_Roles_Data_science.ipynb), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/cuadernos/ap_Roles_Data_science.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/presentaciones/ap_IA_Claves_Desarrollo.slides.html)
 - [Inteligencia Artificial. Claves de su desarrollo](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/cuadernos/ap_IA_Claves_Desarrollo.ipynb), [GitHub](./Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/cuadernos/ap_IA_Claves_Desarrollo.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/presentaciones/ap_IA_Claves_Desarrollo.slides.html)
 - [Inteligencia Artificial. Estado del Arte](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/cuadernos/ap_IA_Estado_del_Arte.ipynb), [GitHub](./Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/cuadernos/ap_IA_Estado_del_Arte.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/presentaciones/ap_IA_Estado_del_Arte.slides.html)
-
-- [Herramientas Digitales](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/cuadernos/Herramientas_Digitales.ipynb)
+- [Herramientas Digitales](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/cuadernos/ap_Herramientas_Digitales.ipynb)
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
 - [Ambientes Virtuales](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/cuadernos/Ambientes_Virtuales.ipynb)
 - [Instalación de Kernels](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/cuadernos/Instalando_Kernels.ipynb)
+- [Mi primer Notebook](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Mi_Primer_Notebook.ipynb)
+- [Introducción a JupyterLab](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Intro_Jupyter.ipynb)
+
 Actualización hasta aquí...
 
 ---
-- [Mi primer Notebook](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Mi_Primer_Notebook.ipynb)
-- [Introducción a JupyterLab](), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/01%20-%20Entornos%20de%20Programación%20y%20Desarrollo/Cuadernos/Intro_Jupyter.ipynb)
 
 ## Preliminares :books:
 
