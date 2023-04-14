@@ -35,6 +35,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Programación Orientada a Objetos](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/03%20-%20Programaci%C3%B3n%20en%20Python/Cuadernos/py_0110_POO.ipynb), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0110_POO.ipynb)
    - [Decoradores](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/03%20-%20Programaci%C3%B3n%20en%20Python/Cuadernos/py_0120_Decoradores.ipynb), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0120_Decoradores.ipynb)
    - [Blue-prints: Buenas prácticas de programacion](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/03%20-%20Programaci%C3%B3n%20en%20Python/Cuadernos/py_0130_Patrones_POO.ipynb), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0130_Patrones_POO.ipynb)
+  
   Actualización hasta aquí...
 
   ---
