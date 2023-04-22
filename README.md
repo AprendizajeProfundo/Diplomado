@@ -5,7 +5,7 @@
 Este es un repositorio creado para el diplomado en Inteligencia Artificial y Aprendizaje Profundo Básico.
 
 ## Prompts
-- [Prompts Chat-GPT](./Prompts gratis_ChatGPT.pdf)
+- [Prompts Chat-GPT](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Prompts%20gratis_ChatGPT.pdf)
 
 ## Introducción :bookmark_tabs:
 - [Roles en Data Science](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/cuadernos/ap_Roles_Data_science.ipynb), [GitHub](./Temas/Módulo%2000%20-%20Sesión%20inaugural/cuadernos/ap_Roles_Data_science.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2000%20-%20Sesi%C3%B3n%20inaugural/presentaciones/ap_IA_Claves_Desarrollo.slides.html)
