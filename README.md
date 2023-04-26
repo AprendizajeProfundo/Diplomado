@@ -45,19 +45,19 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Algebra Lineal :triangular_ruler:
    - [Introducción a tensores con Numpy](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/01%20-%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_I.ipynb). [GitHub](./Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/01%20-%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_I.ipynb)
    - [Jugando con tensores](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/01%20-%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_II.ipynb). [GitHub](./Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/01%20-%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_II.ipynb)
-  
-  Actualización hasta aquí...
-
-  ---
    - [Tensores y distribuciones de probabilidad](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Tensor_Distribucion_Prob.ipynb)
   
 
 - Probabilidad y Estadística :bar_chart:
-  - [Conceptos básicos de probabilidad](), [GitHub](./Temas/Módulo%2001%20-%20Matemáticas%20y%20Estadística/02%20-%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Conceptos_Basicos.ipynb)
-  - [Variables aleatorias](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Variables_Aleatorias.ipynb)
-  - [Probabilidad conjunta](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Var_Prob_conjunta.ipynb)
-  - [Distribuciones continuas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Distribuciones_continuas.ipynb)
-  - [Funciones de pérdida](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Funciones_Perdida.ipynb)
+  - [Conceptos básicos de probabilidad](), [GitHub](.Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/02%20-%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Conceptos_Basicos.ipynb)
+  - [Variables aleatorias](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Variables_Aleatorias.ipynb), [GitHub](.Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/02%20-%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Variables_Aleatorias.ipynb)
+  - [Probabilidad conjunta](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Var_Prob_conjunta.ipynb), [GitHub](./Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/02%20-%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Var_Prob_conjunta.ipynb)
+  - [Distribuciones continuas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Distribuciones_continuas.ipynb), [GitHub](./Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/02%20-%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Distribuciones_continuas.ipynb)
+    
+  Actualización hasta aquí...
+
+  ---
+  - [Funciones de pérdida](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Funciones_Perdida.ipynb), [GitHub]()
   - [Métricas](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Metricas.ipynb)
 
 
