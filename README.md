@@ -41,9 +41,17 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Programación Orientada a Objetos](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/03%20-%20Programaci%C3%B3n%20en%20Python/Cuadernos/py_0110_POO.ipynb), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0110_POO.ipynb)
    - [Blue-prints: Buenas prácticas de programacion](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/03%20-%20Programaci%C3%B3n%20en%20Python/Cuadernos/py_0130_Patrones_POO.ipynb), [GitHub](./Temas/Módulo%2002%20-%20Introducción%20a%20la%20programación/03%20-%20Programación%20en%20Python/Cuadernos/py_0130_Patrones_POO.ipynb)
   
+
+- Algebra Lineal :triangular_ruler:
+   - [Introducción a tensores con Numpy](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_I.ipynb). [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/01%20-%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_I.ipynb)
+   - [Jugando con tensores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/1.%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_II.ipynb). [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/01%20-%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_II.ipynb)
+  
   Actualización hasta aquí...
 
   ---
+   - [Tensores y distribuciones de probabilidad](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Tensor_Distribucion_Prob.ipynb)
+  
+
 - Probabilidad y Estadística :bar_chart:
   - [Conceptos básicos de probabilidad](), [GitHub](./Temas/Módulo%2001%20-%20Matemáticas%20y%20Estadística/02%20-%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/Prob_Conceptos_Basicos.ipynb)
   - [Variables aleatorias](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Prob_Variables_Aleatorias.ipynb)
@@ -52,10 +60,6 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Funciones de pérdida](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Funciones_Perdida.ipynb)
   - [Métricas](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Metricas.ipynb)
 
-- Algebra Lineal :triangular_ruler:
-   - [Introducción a tensores con Numpy](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_I.ipynb)
-   - [Jugando con tensores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/1.%20Matem%C3%A1ticas/Cuadernos/Intro_Tensores_II.ipynb)
-   - [Tensores y distribuciones de probabilidad](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Tensor_Distribucion_Prob.ipynb)
 
 - Teoría de la Información :newspaper:
   - [Introducción a la teoría de la información](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/ti_Teoria_Informacion.ipynb)
