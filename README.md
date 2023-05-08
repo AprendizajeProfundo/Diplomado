@@ -164,7 +164,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Detección y Reconocimiento Facial](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
   - [Audios tratados como Imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_Audio.ipynb)
   - [Análisis de Sentimientos en videos](https://drive.google.com/file/d/1IYUphobzz-ai7bvRA144REq9inW7d4q5/view?usp=sharing)
-  - [GANS-Mnist(https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN-mnist.ipynb)
+  - [GANS-Mnist](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN-mnist.ipynb)
   - [GANS-CelebA](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/6.%20Redes%20generativas%20adversarias/Cuadernos/GAN.ipynb)
   - [StyleGAN (Jeff Heaton)](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
   - [Segmentación I](https://colab.research.google.com/drive/1AmaRGcvXE5cC4pCAtAAEy7W7bvRJnFKX?authuser=1)
