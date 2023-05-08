@@ -68,48 +68,26 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - Teoría de la Información :newspaper:
   - [Introducción a la teoría de la información](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/02%20-%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/ti_Teoria_Informacion.ipynb), [GitHub](./Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/02%20-%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/ti_Teoria_Informacion.ipynb)
-
-  Actualización hasta aquí...
-
-  ---
-   - [Regresión Lineal en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%201-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/2.%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Regresi%C3%B3n-Lineal-Pyton.ipynb)
-   - [Clasificación Lineal en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/Clasificacion_Lineal.ipynb)
+   - [Regresión Lineal en Python](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/02%20-%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Regresi%C3%B3n-Lineal-Pyton.ipynb), [GitHub](./Temas/M%C3%B3dulo%2001%20-%20Matem%C3%A1ticas%20y%20Estad%C3%ADstica/02%20-%20Estad%C3%ADsica%2C%20Teor%C3%ADa%20de%20la%20Decisi%C3%B3n%20y%20Teor%C3%ADa%20de%20la%20informaci%C3%B3n/Cuadernos/Regresi%C3%B3n-Lineal-Pyton.ipynb)
+   - [Clasificación Lineal en Python](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2003%20-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/01%20-%20Introducci%C3%B3n%20a%20Inteligencia%20Artificial/Cuadernos/Clasificacion_Lineal.ipynb), [GitHub](./Temas/M%C3%B3dulo%2003%20-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/01%20-%20Introducci%C3%B3n%20a%20Inteligencia%20Artificial/Cuadernos/Clasificacion_Lineal.ipynb)
   
-
-## Machine Learning :robot:
-
-- Aprendizaje de Máquinas :eyeglasses:
-
-  - [Introducción a aprendizaje de máquinas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am_intro_aprendizaje_maquinas.ipynb)
-  - [Conceptos básicos de regresión](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/am_intro_regresion.ipynb)
-  - [Regresión Logística con JAX](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am_Regresion_logistica_JAX.ipynb)
-  - [Regresión Logística con Tensorflow 2.x](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am_Regresion_Logistica_Tensorflow.ipynb)
-  - [Regresión con tf.keras 2.x](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am_regresion_Keras.ipynb)
-  - [Modelo logístico de predicción en tf.keras](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-logistico-keras-cancer.ipynb)
-
-- Aprendizaje de Máquinas No Supervisado :computer:
-   - [Introducción a R](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/BreveIntroduccion2R.ipynb)
-   - [Introducción a aprendizaje no supervisado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
-   - [Análisis en componentes principales](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACP.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACP.ipynb)
-   - [Análisis de correspondencias simples (ACS)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACS.ipynb)
-   - [Análsis de correspondencias múltiples](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACM.ipynb)
-   - [Agrupamiento (clustering)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/Agrupamiento.ipynb)
-
-- Mapas auto-organizados (SOM) 
-  - [Introducción a SOM](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%2011-%20Mapas%20Auto%20Organizados/Cuadernos/som_Introduccion.ipynb)
-
 ## Aprendizaje Profundo e Inteligencia Artificial :fireworks:
 
 - Introducción a redes neuronales :brain:
    - [Introducción a Redes Neuronales Artificiales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2004%20-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Intro_RNA.ipynb), [GitHub](./Temas/M%C3%B3dulo%2004%20-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Intro_RNA.ipynb)
    - [Ejemplo de Visualización](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2004%20-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_NN_Animation.ipynb), [GitHub](./Temas/M%C3%B3dulo%2004%20-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_NN_Animation.ipynb)
    - [Primera Red Neuronal con la API Sequential de Keras (Simulación)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2004%20-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Hello_World_ML.ipynb), [GitHub](./Temas/M%C3%B3dulo%2004%20-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Hello_World_ML.ipynb)
+   - [Regresión con tf.keras-consumo de gasolina API Sequential](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2003%20-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/01%20-%20Introducci%C3%B3n%20a%20Inteligencia%20Artificial/Cuadernos/am_regresion_Keras_gasolina.ipynb), [GitHub](./Temas/M%C3%B3dulo%2003%20-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/01%20-%20Introducci%C3%B3n%20a%20Inteligencia%20Artificial/Cuadernos/am_regresion_Keras_gasolina.ipynb)
+   - [Regresión con tf.keras-consumo de gasolina API Functional](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2003%20-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/01%20-%20Introducci%C3%B3n%20a%20Inteligencia%20Artificial/Cuadernos/am_regresion_Keras_gasolina-Functional.ipynb), [GitHub](./Temas/M%C3%B3dulo%2003%20-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/01%20-%20Introducci%C3%B3n%20a%20Inteligencia%20Artificial/Cuadernos/am_regresion_Keras_gasolina-Functional.ipynb)
+  
+ Actualización hasta aquí...
+
+  ---
    - [Funciones de activación](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Activation_Functions.ipynb)
    - [Primera Red Neuronal con la API Sequential de Keras (MNIST)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Intro_Keras_Sequential.ipynb)
    - [Red Neuronal Desde Cero](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/am_Red_De_Cero.ipynb)
   - [Primera Red Neuronal con la API funcional de Keras](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%204-%20Introducci%C3%B3n%20a%20las%20redes%20neuronales/Cuadernos/Intro_Keras_Functional.ipynb)
   - [API Funcional: Modelo de Regresión multi-logística (Iris) con tf.keras 2.x](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-softmax-keras-iris.ipynb)
-  - [Regresión con tf.keras-consumo de gasolina](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%203-%20Introducci%C3%B3n%20al%20aprendizaje%20de%20m%C3%A1quinas/1.%20Introducci%C3%B3n%20a%20IA/Cuadernos/am_regresion_Keras_gasolina.ipynb)
   - [Usando Subclassing en Keras](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-subclassing-iris.ipynb)
   - [Detección de Fraude en tarjetas de crédito](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-fraudes_datos_desbalanceados.ipynb)
 
@@ -224,6 +202,29 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Método actor-crítico](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Actor_Critico.ipynb)
    - [Algortimos de diferencia temporal](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Time_Diff_QLearning.ipynb)
    - [Aprendizaje reforzado en videojuegos. Unity](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2012-%20Aprendizaje%20Reforzado/Cuadernos/ar_Unity.ipynb)
+
+## Machine Learning :robot:
+
+- Aprendizaje de Máquinas :eyeglasses:
+
+  - [Introducción a aprendizaje de máquinas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am_intro_aprendizaje_maquinas.ipynb)
+  - [Conceptos básicos de regresión](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/2.%20Estadísica%2C%20Teoría%20de%20la%20Decisión%20y%20Teoría%20de%20la%20información/Cuadernos/am_intro_regresion.ipynb)
+  - [Regresión Logística con JAX](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am_Regresion_logistica_JAX.ipynb)
+  - [Regresión Logística con Tensorflow 2.x](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am_Regresion_Logistica_Tensorflow.ipynb)
+  - [Regresión con tf.keras 2.x](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am_regresion_Keras.ipynb)
+  - [Modelo logístico de predicción en tf.keras](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%203-%20Introducción%20al%20aprendizaje%20de%20máquinas/1.%20Introducción%20a%20IA/Cuadernos/am-logistico-keras-cancer.ipynb)
+
+- Aprendizaje de Máquinas No Supervisado :computer:
+   - [Introducción a R](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/BreveIntroduccion2R.ipynb)
+   - [Introducción a aprendizaje no supervisado](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/AprendizajeNoSupervisado.ipynb)
+   - [Análisis en componentes principales](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACP.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACP.ipynb)
+   - [Análisis de correspondencias simples (ACS)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACS.ipynb)
+   - [Análsis de correspondencias múltiples](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/ACM.ipynb)
+   - [Agrupamiento (clustering)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2014-%20Aprendizaje%20no%20Supervisado/Cuadernos/Agrupamiento.ipynb)
+
+- Mapas auto-organizados (SOM) 
+  - [Introducción a SOM](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%2011-%20Mapas%20Auto%20Organizados/Cuadernos/som_Introduccion.ipynb)
+
 
 ## Talleres :memo:
 - [Distribuciones de Probabilidad en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Distribuciones.ipynb)
