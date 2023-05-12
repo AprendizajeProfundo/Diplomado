@@ -97,7 +97,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Ejemplo de Clasificación con MNIST-Fashion](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_10_clasificacion.ipynb), [GitHub](./Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_10_clasificacion.ipynb)
    - [Introducción a la POO](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/POO_Pytorch_10_clasificacion.ipynb), [GitHub](./Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/POO_Pytorch_10_clasificacion.ipynb)
    - [Pytorch Lightning](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning.ipynb), [GitHub](./Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning.ipynb)
-  
+   - [Pytorch Lightning Avanzado](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning-Clasificacion-ver_01.ipynb) 
    Actualización hasta aquí...
 
   ---
