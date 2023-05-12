@@ -239,7 +239,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
  - [PLN: Calificación automática de ensayos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/Practica_2_NLP.ipynb)
  - [Tensorboard en Pytorch](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Tensorboard%20en%20pytorch.ipynb)
  - [Tensorboard en Tensorflow](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Tensorboard%20en%20tensorflow.ipynb)
- - [Datasets y Dataloader: creditcard](ttps://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders-Credit_card.ipynb)
+ - [Datasets y Dataloader: creditcard](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders-Credit_card.ipynb)
  - [Datasets y Dataloader: MNIST](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders-MNIST.ipynb)
  - [Datasets y Dataloader: CIFAR10](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders_CIFAR010.ipynb)
 ## Recursos :pushpin:
