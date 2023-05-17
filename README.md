@@ -97,11 +97,25 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
    - [Ejemplo de Clasificación con MNIST-Fashion](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_10_clasificacion.ipynb), [GitHub](./Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_10_clasificacion.ipynb)
    - [Introducción a la POO](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/POO_Pytorch_10_clasificacion.ipynb), [GitHub](./Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/POO_Pytorch_10_clasificacion.ipynb)
    - [Pytorch Lightning](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning.ipynb), [GitHub](./Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning.ipynb)
-   - [Pytorch Lightning Avanzado](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning-Clasificacion-ver_01.ipynb) 
+   - [Pytorch Lightning Avanzado](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning-Clasificacion-ver_01.ipynb), [GitHub](./Temas/M%C3%B3dulo%2002%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/06%20-%20Programaci%C3%B3n%20en%20Pytorch/Cuadernos/Pytorch_lightning-Clasificacion-ver_01.ipynb) 
 
+- Autocodificadores :large_orange_diamond:
+  - [Introducción a Autocodificadores. Ejemplo MNIST Denso](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_mnist.ipynb),[GitHub](./Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_mnist.ipynb)
+  - [Reconstrucción de Rostros usando LFW (Labeled Faces in the Wild)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb),[GitHub](./Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
 Actualización hasta aquí...
 
   ---
+[[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.html)
+  - [Coloración de imágenes usando CIFAR 100](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
+  - [Ejemplo eliminación de ruido con datos MNIST](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
+  - [Autocodificador Convolucional para Eliminación de Ruido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
+  - [Aplicación a pruebas de Estado. Modelo TRI multidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam.ipynb)
+  - [Aplicación a pruebas de Estado. Modelo TRI Muti-unidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
+
+- Autocodificadores variacionales :large_blue_diamond:
+  - [Introducción a autoencoders variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Introduction.ipynb)
+  - [Implementación  de un autoencoder variacional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb)
+  - [Modelos TRI y autocodificadores variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
 - Tensorflow :fire:
    - [Inicio rápido](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo-16%20Tensorflow/Caudernos/Tensorflow-01.ipynb)
    - [Datasets. La API tf.data](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
@@ -120,20 +134,6 @@ Actualización hasta aquí...
   - [Series de tiempo  muy largas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
   - [Tutorial Google de Series de tiempo 2021](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_google_time_series.ipynb)
 
-- Autocodificadores :large_orange_diamond:
-  - [Introducción a Autocodificadores. Ejemplo MNIST Denso](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_mnist.ipynb)
-  - [Reconstrucción de Rostros usando LFW (Labeled Faces in the Wild)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
-[[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.html)
-  - [Coloración de imágenes usando CIFAR 100](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
-  - [Ejemplo eliminación de ruido con datos MNIST](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
-  - [Autocodificador Convolucional para Eliminación de Ruido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
-  - [Aplicación a pruebas de Estado. Modelo TRI multidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam.ipynb)
-  - [Aplicación a pruebas de Estado. Modelo TRI Muti-unidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
-
-- Autocodificadores variacionales :large_blue_diamond:
-  - [Introducción a autoencoders variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Introduction.ipynb)
-  - [Implementación  de un autoencoder variacional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAE_Example_Dense_mnist.ipynb)
-  - [Modelos TRI y autocodificadores variacionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/2.%20Autocodificadores%20variacionales/Cuadernos/VAI_Introduction-TRI.ipynb)
 
 - Tratamiento de Imágenes :framed_picture:
   - [Introducción a Convoluciones](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_convoluciones.ipynb)
