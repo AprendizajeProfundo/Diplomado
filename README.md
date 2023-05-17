@@ -102,10 +102,10 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Autocodificadores :large_orange_diamond:
   - [Introducción a Autocodificadores. Ejemplo MNIST Denso](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_mnist.ipynb),[GitHub](./Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_mnist.ipynb)
   - [Reconstrucción de Rostros usando LFW (Labeled Faces in the Wild)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb),[GitHub](./Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
+  
 Actualización hasta aquí...
 
   ---
-[[HTML]](https://htmlpreview.github.io/?https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.html)
   - [Coloración de imágenes usando CIFAR 100](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
   - [Ejemplo eliminación de ruido con datos MNIST](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
   - [Autocodificador Convolucional para Eliminación de Ruido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
