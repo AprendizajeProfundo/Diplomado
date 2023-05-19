@@ -137,7 +137,7 @@ Actualización hasta aquí...
 
 - Visión por computador :framed_picture:
   -  [Introducción a visión por computador](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/intro_vision.ipynb)
-  - [Introducción a Convoluciones](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/Introducci%C3%B3n_Convoluciones.ipynb)) [Github]()
+  - [Introducción a Convoluciones](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/Introducci%C3%B3n_Convoluciones.ipynb)) 
   - [Redes Neuronales Convolucionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_cnn.ipynb)
   - [Arquitectura Resnet](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/ResNet-20v1.ipynb)
   - [Cats Vs Dogs (Kaggle Competition)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
