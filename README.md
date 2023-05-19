@@ -102,7 +102,26 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - Autocodificadores :large_orange_diamond:
   - [Introducción a Autocodificadores. Ejemplo MNIST Denso](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_mnist.ipynb),[GitHub](./Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_mnist.ipynb)
   - [Reconstrucción de Rostros usando LFW (Labeled Faces in the Wild)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb),[GitHub](./Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Example_Dense_Face_Recover.ipynb)
-  
+
+
+
+- Visión por computador :framed_picture:
+  -  [Introducción a visión por computador](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/intro_vision.ipynb)
+  - [Introducción a Convoluciones](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/Introducci%C3%B3n_Convoluciones.ipynb)) 
+  - [Redes Neuronales Convolucionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_cnn.ipynb)
+  - [Arquitectura Resnet](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/ResNet-20v1.ipynb)
+  - [Cats Vs Dogs (Kaggle Competition)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
+  - Redes Profundas Modernas [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/tl_redes_modernas.ipynb)
+  - Transfer Learning [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/Cuadernos/tl_transfer_learning.ipynb)
+  - [Detección y Reconocimiento Facial](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
+  - [Audios tratados como Imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_Audio.ipynb)
+  - [Análisis de Sentimientos en videos](https://drive.google.com/file/d/1IYUphobzz-ai7bvRA144REq9inW7d4q5/view?usp=sharing)
+  - [GANS-Mnist](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN-mnist.ipynb)
+  - [GANS-CelebA](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/6.%20Redes%20generativas%20adversarias/Cuadernos/GAN.ipynb)
+  - [StyleGAN (Jeff Heaton)](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
+  - [Segmentación I](https://colab.research.google.com/drive/1AmaRGcvXE5cC4pCAtAAEy7W7bvRJnFKX?authuser=1)
+  - [Segmentación II](https://colab.research.google.com/drive/1V_S9RygDS0kk7hxyVg0_6rQhk4Seqd1F?usp=sharing)
+
 Actualización hasta aquí...
 
   ---
@@ -133,24 +152,6 @@ Actualización hasta aquí...
   - [Series de tiempo  Multivariadas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
   - [Series de tiempo  muy largas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
   - [Tutorial Google de Series de tiempo 2021](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_google_time_series.ipynb)
-
-
-- Visión por computador :framed_picture:
-  -  [Introducción a visión por computador](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/intro_vision.ipynb)
-  - [Introducción a Convoluciones](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/Introducci%C3%B3n_Convoluciones.ipynb)) 
-  - [Redes Neuronales Convolucionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_cnn.ipynb)
-  - [Arquitectura Resnet](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/ResNet-20v1.ipynb)
-  - [Cats Vs Dogs (Kaggle Competition)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
-  - Redes Profundas Modernas [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/tl_redes_modernas.ipynb)
-  - Transfer Learning [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/Cuadernos/tl_transfer_learning.ipynb)
-  - [Detección y Reconocimiento Facial](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
-  - [Audios tratados como Imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_Audio.ipynb)
-  - [Análisis de Sentimientos en videos](https://drive.google.com/file/d/1IYUphobzz-ai7bvRA144REq9inW7d4q5/view?usp=sharing)
-  - [GANS-Mnist](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN-mnist.ipynb)
-  - [GANS-CelebA](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/6.%20Redes%20generativas%20adversarias/Cuadernos/GAN.ipynb)
-  - [StyleGAN (Jeff Heaton)](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
-  - [Segmentación I](https://colab.research.google.com/drive/1AmaRGcvXE5cC4pCAtAAEy7W7bvRJnFKX?authuser=1)
-  - [Segmentación II](https://colab.research.google.com/drive/1V_S9RygDS0kk7hxyVg0_6rQhk4Seqd1F?usp=sharing)
 
 - Procesamiento de Lenguaje Natural :abcd:
   - [Introducción al tratamiento superficial de datos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Introduccion.ipynb)
