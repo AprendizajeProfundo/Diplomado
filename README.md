@@ -106,14 +106,16 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 
 - Visión por computador :framed_picture:
-  -  [Introducción a visión por computador](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/intro_vision.ipynb)
-  - [Introducción a Convoluciones](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/Introducci%C3%B3n_Convoluciones.ipynb)
+  -  [Introducción a visión por computador](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/intro_vision.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/intro_vision.ipynb)
+  - [Introducción a Convoluciones](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/Introducci%C3%B3n_Convoluciones.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/01%20-%20Redes%20convolucionales/Cuadernos/Introducci%C3%B3n_Convoluciones.ipynb)
+  - [Redes Neuronales Convolucionales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_cnn.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_cnn.ipynb)
+  - [Cats Vs Dogs (Kaggle Competition)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
+  - [Ejemplo eliminación de ruido con datos MNIST](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb), [GitHub](./Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
+  - [Coloración de imágenes usando CIFAR 100](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb), [GitHub](./Temas/M%C3%B3dulo%2005%20-%20Autocodificadores/01%20-%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
 
-Actualización hasta aquí...
-
-  - [Redes Neuronales Convolucionales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20imágenes/Cuadernos/ti_cnn.ipynb)
+  Actualización hasta aquí...
+  ---
   - [Arquitectura Resnet](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/ResNet-20v1.ipynb)
-  - [Cats Vs Dogs (Kaggle Competition)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/3.%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Cat_Dog_Kaggle.ipynb)
   - Redes Profundas Modernas [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/tl_redes_modernas.ipynb)
   - Transfer Learning [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/Cuadernos/tl_transfer_learning.ipynb)
   - [Detección y Reconocimiento Facial](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
@@ -128,8 +130,6 @@ Actualización hasta aquí...
 
 
   ---
-  - [Coloración de imágenes usando CIFAR 100](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Colorizing.ipynb)
-  - [Ejemplo eliminación de ruido con datos MNIST](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Eliminacion_ruido_MNIST.ipynb)
   - [Autocodificador Convolucional para Eliminación de Ruido](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/Noise_Elimination_Conv.ipynb)
   - [Aplicación a pruebas de Estado. Modelo TRI multidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam.ipynb)
   - [Aplicación a pruebas de Estado. Modelo TRI Muti-unidimensional](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%206-%20Autocodificadores/1.%20Autocodificadores%20generales/Cuadernos/ae_Autoencoder_Exam-multi_uni.ipynb)
