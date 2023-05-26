@@ -115,15 +115,19 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Arquitectura Resnet](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/ResNet-20v1.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/ResNet-20v1.ipynb)
   - [Redes Profundas Modernas](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/tl_redes_modernas.ipynb), [Github](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/02%20-%20Redes%20profundas/Cuadernos/tl_redes_modernas.ipynb)
   - [Transfer Learning](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/tl_transfer_learning.ipynb), [Github](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/tl_transfer_learning.ipynb)
+   - [GANS-Mnist](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN-mnist.ipynb)
+  - [GANS-CelebA]([https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/6.%20Redes%20generativas%20adversarias/Cuadernos/GAN.ipynb](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/DCGAN_Rostros_falsos.ipynb))
+  - [GAN's condicionales](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN_condicional.ipynb)
+  - [GAN's Pytorch-lightning](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN_lightning.ipynb)
   - [Audios tratados como Imágenes](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Audio.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/03%20-%20Tratamiendo%20de%20im%C3%A1genes/Cuadernos/ti_Audio.ipynb)
 
   Actualización hasta aquí...
   ---
   - [Detección y Reconocimiento Facial](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/2.%20Redes%20profundas/tl_deteccion_reconocimiento_facial.ipynb)
   - [Análisis de Sentimientos en videos](https://drive.google.com/file/d/1IYUphobzz-ai7bvRA144REq9inW7d4q5/view?usp=sharing)
-  - [GANS-Mnist](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN-mnist.ipynb)
-  - [GANS-CelebA](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%207-%20Aprendizaje%20Profundo%20I/6.%20Redes%20generativas%20adversarias/Cuadernos/GAN.ipynb)
-  - [StyleGAN (Jeff Heaton)](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
+ 
+
+- [StyleGAN (Jeff Heaton)](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
   - [Segmentación I](https://colab.research.google.com/drive/1AmaRGcvXE5cC4pCAtAAEy7W7bvRJnFKX?authuser=1)
   - [Segmentación II](https://colab.research.google.com/drive/1V_S9RygDS0kk7hxyVg0_6rQhk4Seqd1F?usp=sharing)
 
