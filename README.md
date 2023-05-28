@@ -167,7 +167,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - Transformers :fireworks:
   - [Introducción al concepto de atención](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/pln_sesion_04_01_mecanismos_atencion.ipynb)
-  - [Arquitectura de Modelos de atención](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/pln_sesion_04_03_auto_atencion_pln.ipynb)
+  - [Arquitectura de Modelos de atención](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/pln_sesion_04_02_atencion_pln.ipynb)
   - [Arquitectura de modelos de auto-atención](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/pln_sesion_04_03_auto_atencion_pln.ipynb)
   - [Arquitectura Transformer](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_Transformers-TF2.ipynb)
   - [Implementación completa del Transformer en Tensorflow 2.X](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/nlp_Transformers-TF2.ipynb)
