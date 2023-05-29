@@ -128,8 +128,8 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   -  Introducción a modelos secuenciales [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Intro_Modelos_Secuenciales.ipynb)
   - Introducción a redes neuronales recurrentes [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
   - Introducción a redes LSTM [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_LSTM_Intro.ipynb)
-  - [Introducción a redes GRU](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
- - Taller series de tiempo LSTM y GRU  [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
+  - Introducción a redes GRU [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
+  - Taller series de tiempo LSTM y GRU  [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
  
    Actualización hasta aquí...
   ---
