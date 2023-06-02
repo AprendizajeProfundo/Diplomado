@@ -138,7 +138,7 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Series de tiempo  Multivariadas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
   - [Series de tiempo  muy largas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
   - [Tutorial Google de Series de tiempo 2021](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_google_time_series.ipynb)
-  - [Series de tiempo con Darts](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/00-Darts_quickstart.ipynb)
+  - Series de tiempo con Dart  [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/00-Darts_quickstart.ipynb)
 
  
    Actualización hasta aquí...
