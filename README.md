@@ -131,19 +131,19 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - Introducción a redes GRU [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_GRU_Intro.ipynb)
   - Taller series de tiempo LSTM y GRU  [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Times_series_Intro-lstm.ipynb)
 
- - Predicción de la acción de Apple a un día, [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia-dropout_new.ipynb)
-  - Predicción de la acción de Apple a tres días, [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-dropout_new.ipynb)
-  - Predicción de todos valores en una ventana futura, [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_diez_dias-multiple_new.ipynb)
-  - Predicción de la acción de Apple a un día usando Conv-LSTM, [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia_Conv_LSTM_new.ipynb)
+ - Predicción de la acción de Apple a un día(https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia-dropout_new.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia-dropout_new.ipynb)
+  - Predicción de la acción de Apple a tres días(https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_tres_dias-dropout_new.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Stock_Prices_Prediction_a_tres_dias.ipynb)
+  - Predicción de todos valores en una ventana futura(https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_diez_dias-multiple_new.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_diez_dias-multiple_new.ipynb)
+  - Predicción de la acción de Apple a un día usando Conv-LSTM(https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia_Conv_LSTM_new.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_accion_Apple_Prediccion_un_dia_Conv_LSTM_new.ipynb)
+  - Predicción del valor de una acción. Tata Global Beverage (LSTM)(https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Stock_Prices_Prediction_a_un_dia.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Stock_Prices_Prediction_a_un_dia.ipynb)
+  - [Predicción del valor de una acción. Tata Global Beverage tres días (LSTM)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Stock_Prices_Prediction_a_tres_dias.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Stock_Prices_Prediction_a_tres_dias.ipynb)
+   
+   Actualización hasta aquí...
+  ---
   - [Series de tiempo  Multivariadas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnrTimes_series_Multivariate.ipynb)
   - [Series de tiempo  muy largas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%205-%20Redes%20recurrentes/Cuadernos/rnr_Long_Time_series.ipynb)
   - [Tutorial Google de Series de tiempo 2021](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%205-%20Redes%20recurrentes/Cuadernos/rnr_google_time_series.ipynb)
-  - Series de tiempo con Dart  [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/00-Darts_quickstart.ipynb)
 
- 
-   Actualización hasta aquí...
-  ---
- 
 - Procesamiento de Lenguaje Natural :abcd:
   - [Introducción al tratamiento superficial de datos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Introduccion.ipynb)
   - [Generación de texto usando caracateres y redes recurrentes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Char_generator_RNN.ipynb)
