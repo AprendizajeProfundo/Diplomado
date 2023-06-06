@@ -121,9 +121,6 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [GAN's Pytorch-lightning](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN_lightning.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/06%20-%20Redes%20generativas%20adversarias/Cuadernos/GAN_lightning.ipynb)
   - [Audios tratados como Imágenes](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/04%20-%20Tratamiento%20de%20Audios/cuadernos/ti_Audio.ipynb), [GitHub](./Temas/M%C3%B3dulo%2007%20-%20Visi%C3%B3n%20por%20computador/04%20-%20Tratamiento%20de%20Audios/cuadernos/ti_Audio.ipynb)
 
-
-
-   
 - Redes Recurrentes :repeat:
   -  [Introducción a modelos secuenciales](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Intro_Modelos_Secuenciales.ipynb), [Github](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnr_Intro_Modelos_Secuenciales.ipynb)
   - [Introducción a redes neuronales recurrentes](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb), [Github](./Temas/M%C3%B3dulo%2006%20-%20Redes%20recurrentes/Cuadernos/rnn_Intro_Redes_Recurrentes.ipynb)
@@ -142,8 +139,9 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 
 - Procesamiento de Lenguaje Natural :abcd:
   - [Introducción al tratamiento superficial de datos](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/01%20-%20Tratamiento%20superficial%20de%20textos/Cuadernos/nlp_Introduccion.ipynb), [GitHub](./Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/01%20-%20Tratamiento%20superficial%20de%20textos/Cuadernos/nlp_Introduccion.ipynb)
-     
-   Actualización hasta aquí...
+  - Word2Vec. Incrustaciones CBOW y Skip-Gram   [Github](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/02%20-%20Introducci%C3%B3n%20a%20las%20t%C3%A9cnicas%20Word2Vec/Cuadernos/nlp_word2vec.ipynb)
+
+Actualización hasta aquí...
   ---
   - [Generación de texto usando caracateres y redes recurrentes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Char_generator_RNN.ipynb)
   - [Aprendizaje Profundo para datos textuales: word2vec](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_word2vec.ipynb)
