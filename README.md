@@ -141,12 +141,17 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Word2Vec. Incrustaciones CBOW y Skip-Gram](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/02%20-%20Introducci%C3%B3n%20a%20las%20t%C3%A9cnicas%20Word2Vec/Cuadernos/nlp_word2vec.ipynb), [Github](./Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/02%20-%20Introducci%C3%B3n%20a%20las%20t%C3%A9cnicas%20Word2Vec/Cuadernos/nlp_word2vec.ipynb)
   - [Estado del arte en clasificación de documentos(2020)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/02%20-%20Introducci%C3%B3n%20a%20las%20t%C3%A9cnicas%20Word2Vec/Cuadernos/nlp_Clustering_docs.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/02%20-%20Introducci%C3%B3n%20a%20las%20t%C3%A9cnicas%20Word2Vec/Cuadernos/nlp_Clustering_docs.ipynb)
   - [Introducción a FastText](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/02%20-%20Introducci%C3%B3n%20a%20las%20t%C3%A9cnicas%20Word2Vec/Cuadernos/nlp_FastText_Intro.ipynb), [GitHub](./Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/02%20-%20Introducci%C3%B3n%20a%20las%20t%C3%A9cnicas%20Word2Vec/Cuadernos/nlp_FastText_Intro.ipynb)
+  - [PLN: Calificación automática de ensayos](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/Practica_2_NLP.ipynb), [GitHub](./Talleres/Cuadernos/Practica_2_NLP.ipynb)
+  - [Expresiones regulares con Regex](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/Taller_Regex.ipynb), [GitHub](./Talleres/Cuadernos/Taller_Regex.ipynb)
+  - [Taller NLTK, Gensim](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/Taller_Gensim_NLTK.ipynb), [Github](./Talleres/Cuadernos/Taller_Gensim_NLTK.ipynb)
+  - [Taller Stanza](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/Taller_nlp_stanza_01.ipynb), [GitHub](./Talleres/Cuadernos/Taller_nlp_stanza_01.ipynb)
 
 - Transformers :fireworks:
   - [Introducción al concepto de atención](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/pln_sesion_04_01_mecanismos_atencion.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/pln_sesion_04_01_mecanismos_atencion.ipynb)
   - [Arquitectura de Modelos de atención](https://nbviewer.org/github/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20%28PLN%29/Cuadernos/pln_sesion_04_02_atencion_pln.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Tratamiento%20de%20Lenguaje%20Natural%20(PLN)/Cuadernos/pln_sesion_04_02_atencion_pln.ipynb)
   - [Arquitectura de modelos de auto-atención](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/pln_sesion_04_03_auto_atencion_pln.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/pln_sesion_04_03_auto_atencion_pln.ipynb)
   - [Arquitectura Transformer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_Transformers-TF2.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_Transformers-TF2.ipynb)
+
 
 Actualización hasta aquí...
   ---
@@ -220,9 +225,7 @@ Actualización hasta aquí...
  - [Gráficos con Matplotlib](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Cuaderno_Matplotlib.ipynb)
  - [Canalización de datos. La API tf.data](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
  - [ImageDataGenerator](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Image_DataGenerator_Rice_disease%20.ipynb)
- - [Expresiones regulares con Regex](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Regex.ipynb)
  - [Organización y carga de imágenes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/ti_Carga_de_imagenes.ipynb)
- - [PLN: Calificación automática de ensayos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/Practica_2_NLP.ipynb)
  - [Tensorboard en Pytorch](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Tensorboard%20en%20pytorch.ipynb)
  - [Tensorboard en Tensorflow](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Tensorboard%20en%20tensorflow.ipynb)
  - [Datasets y Dataloader: creditcard](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Talleres/Cuadernos/DataLoaders-Credit_card.ipynb)
@@ -247,8 +250,6 @@ Actualización hasta aquí...
 - Tensorflow :fire:
    - [Inicio rápido](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo-16%20Tensorflow/Caudernos/Tensorflow-01.ipynb)
    - [Datasets. La API tf.data](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/La%20API%20tf.data.ipynb)
-
-
  - [Generación de texto usando caracateres y redes recurrentes](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Char_generator_RNN.ipynb)
   - [Aprendizaje Profundo para datos textuales: word2vec](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_word2vec.ipynb)
 
