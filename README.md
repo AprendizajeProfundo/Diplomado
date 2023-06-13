@@ -153,20 +153,17 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
   - [Arquitectura de modelos de auto-atención](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/pln_sesion_04_03_auto_atencion_pln.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/pln_sesion_04_03_auto_atencion_pln.ipynb)
   - [Arquitectura Transformer](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_Transformers-TF2.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_Transformers-TF2.ipynb)
 
-
-Actualización hasta aquí...
-  ---
- 
-
 - [Implementación completa del Transformer en Tensorflow 2.X](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/nlp_Transformers-TF2.ipynb)
-  - [Transformer Traductor Inglés-Español con Keras ](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
-  - [Transformer Traductor Portugués-Ingles con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/gpu_%20transformer_traductor.ipynb)
-  - [Transformer Chatbot con tf2](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/pln_sesion_05_02_transformer_chatbot-Alvaro.ipynb)
+
   - [Introducción al modelo BERT](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/nlp_BERT_Intro.ipynb)
 
 - HuggingFace :blush:
    - [Entubamiento(pipeline)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
-   - [Pipeline-English)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/nlp_HuggingFace_01_pipeline-en.ipynb)
+
+Actualización hasta aquí...
+  ---
+
+- [Pipeline-English)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/nlp_HuggingFace_01_pipeline-en.ipynb)
    - [PLN por dentro del entubamiento](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_02_pipeline_por%20dentro.ipynb)
    - [Modelos en HuggingFace](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_03_Models.ipynb)
    - [Tokenizadores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/PLN/blob/main/Cuadernos/nlp_HuggingFace_04_Tokenizers.ipynb)
@@ -258,7 +255,9 @@ Actualización hasta aquí...
   - [Análisis de sentimiento-Comentario de películas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_IBDM_Reviews.ipynb)
   - [Modelo seq2seq. Construcción de traductores](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_seq2seq_traductor.ipynb)
   - [Generación automática de texto. Sonetos Shakespeare](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/1.%20Procesamiento%20de%20Lenguaje%20natural/Cuadernos/nlp_Shakespeare-Original.ipynb)
-
+  - [Transformer Traductor Inglés-Español con Keras ](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/tr_machine-translation-transformers.ipynb)
+  - [Transformer Traductor Portugués-Ingles con tf2](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/gpu_%20transformer_traductor.ipynb)
+  - [Transformer Chatbot con tf2](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%208-%20Aprendizaje%20Profundo%20II/2.%20Transformers/Cuadernos/pln_sesion_05_02_transformer_chatbot-Alvaro.ipynb)
 ## Recursos :pushpin:
 
 * [Binder](https://mybinder.org/)
