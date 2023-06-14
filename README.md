@@ -156,7 +156,8 @@ Este es un repositorio creado para el diplomado en Inteligencia Artificial y Apr
 - HuggingFace :blush:
    - [Entubamiento(pipeline)](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb), [Github](./Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
    - [Modelos Bert con la inclusión de variables estadísticas](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_BERT_Numerical_Categorical.ipynb), [Github](./Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_BERT_Numerical_Categorical.ipynb)
-   
+  - [Modelos Generativos](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_GPT.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_GPT.ipynb) 
+  - [GPT2 - Procesamiento de Lenguaje Natural](https://nbviewer.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_HuggingFace_gpt2.ipynb) , [GitHub](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2008%20-%20Procesamiento%20de%20Lenguaje%20Natural/03%20-%20Transformers/Cuadernos/nlp_HuggingFace_gpt2.ipynb)
 
 Actualización hasta aquí...
   ---
